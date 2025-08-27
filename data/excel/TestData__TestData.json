@@ -1,32 +1,28 @@
-[
-  {
-    "Unnamed: 0": "int",
-    "Unnamed: 1": "string",
-    "Unnamed: 2": "float",
-    "Unnamed: 3": "enum"
+{
+  "types": {
+    "Id": "int",
+    "Name": "string",
+    "Hp": "float",
+    "ColorType": "enum"
   },
-  {
-    "Unnamed: 0": "Id",
-    "Unnamed: 1": "Name",
-    "Unnamed: 2": "Hp",
-    "Unnamed: 3": "ColorType"
-  },
-  {
-    "Unnamed: 0": 1,
-    "Unnamed: 1": "Knight",
-    "Unnamed: 2": 100,
-    "Unnamed: 3": "Red"
-  },
-  {
-    "Unnamed: 0": 2,
-    "Unnamed: 1": "Archer",
-    "Unnamed: 2": 80,
-    "Unnamed: 3": "Blue"
-  },
-  {
-    "Unnamed: 0": 3,
-    "Unnamed: 1": "Mage",
-    "Unnamed: 2": 60,
-    "Unnamed: 3": "Green"
-  }
-]
+  "rows": [
+    [
+      1,
+      "Knight",
+      100,
+      "Red"
+    ],
+    [
+      2,
+      "Archer",
+      80,
+      "Blue"
+    ],
+    [
+      3,
+      "Mage",
+      60,
+      "Green"
+    ]
+  ]
+}

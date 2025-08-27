@@ -1,11 +1,10 @@
-[
-  {
-    "Unnamed: 0": "string"
+{
+  "types": {
+    "MapResourceKey": "string"
   },
-  {
-    "Unnamed: 0": "MapResourceKey"
-  },
-  {
-    "Unnamed: 0": "map1"
-  }
-]
+  "rows": [
+    [
+      "map1"
+    ]
+  ]
+}
