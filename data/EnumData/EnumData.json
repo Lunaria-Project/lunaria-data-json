@@ -9,26 +9,26 @@
     [
       "ColorType",
       "Red",
-      NaN,
-      NaN
+      "",
+      ""
     ],
     [
       "ColorType",
       "Blue",
-      NaN,
-      NaN
+      "",
+      ""
     ],
     [
       "ColorType",
       "Green",
-      NaN,
-      NaN
+      "",
+      ""
     ],
     [
       "ColorType",
       "Yellow",
-      NaN,
-      NaN
+      "",
+      ""
     ]
   ]
 }
