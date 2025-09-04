@@ -1,0 +1,28 @@
+{
+  "types": {
+    "EnumName": null,
+    "Value": null,
+    "DisplayName": "string",
+    "ResourceKey": "string"
+  },
+  "rows": [
+    [
+      "ColorType",
+      "Red",
+      NaN,
+      NaN
+    ],
+    [
+      "ColorType",
+      "Blue",
+      NaN,
+      NaN
+    ],
+    [
+      "ColorType",
+      "Green",
+      NaN,
+      NaN
+    ]
+  ]
+}
