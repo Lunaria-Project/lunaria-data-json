@@ -1,0 +1,10 @@
+{
+  "types": {
+    "MapResourceKey": "string"
+  },
+  "rows": [
+    [
+      "map1"
+    ]
+  ]
+}
