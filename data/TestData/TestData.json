@@ -1,6 +1,6 @@
 {
   "types": {
-    "Id": "int",
+    "Id": "int;id",
     "Name": "string",
     "Hp": "float",
     "ColorType": "enum"
