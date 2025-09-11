@@ -1,0 +1,14 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "Name": "string",
+    "IconResourceKey": "string"
+  },
+  "rows": [
+    [
+      1000004,
+      "사용할 화폐",
+      "icon_main_coin"
+    ]
+  ]
+}
