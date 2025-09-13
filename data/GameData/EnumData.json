@@ -1,0 +1,16 @@
+{
+  "types": {
+    "DataType": null,
+    "Name": null,
+    "Value": null,
+    "Design": null
+  },
+  "rows": [
+    [
+      "int",
+      "SecondsPerGameHour",
+      510,
+      "게임 시간 1시간 = 현실 시간 몇 초인지"
+    ]
+  ]
+}
