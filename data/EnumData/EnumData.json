@@ -29,6 +29,18 @@
       "Yellow",
       "",
       ""
+    ],
+    [
+      "RequirementType",
+      "AlwaysTrue",
+      "",
+      ""
+    ],
+    [
+      "RequirementType",
+      "AlwaysFalse",
+      "",
+      ""
     ]
   ]
 }

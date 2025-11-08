@@ -1,0 +1,16 @@
+{
+  "types": {
+    "RequirementType": "enum<RequirementType>;key",
+    "설명": "design"
+  },
+  "rows": [
+    [
+      "AlwaysTrue",
+      "항상 true"
+    ],
+    [
+      "AlwaysFalse",
+      "항상 false"
+    ]
+  ]
+}
