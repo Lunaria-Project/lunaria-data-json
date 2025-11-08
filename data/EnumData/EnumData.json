@@ -41,6 +41,12 @@
       "AlwaysFalse",
       "",
       ""
+    ],
+    [
+      "NpcMenuFunctionType",
+      "Talk",
+      "",
+      ""
     ]
   ]
 }

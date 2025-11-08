@@ -1,0 +1,14 @@
+{
+  "types": {
+    "NpcId": "int;id;key",
+    "ShowRequirement": "enum<RequirementType>",
+    "HideRequirement": "enum<RequirementType>"
+  },
+  "rows": [
+    [
+      1000008,
+      "AlwaysTrue",
+      "AlwaysFalse"
+    ]
+  ]
+}
