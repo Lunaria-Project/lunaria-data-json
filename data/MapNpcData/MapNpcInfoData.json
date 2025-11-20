@@ -2,9 +2,9 @@
   "types": {
     "NpcId": "int;id;key",
     "ShowRequirement": "enum<RequirementType>",
-    "ShowRequirementValue": "list<int>",
+    "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
-    "HideRequirementValue": "list<int>"
+    "HideRequirementValues": "list<int>"
   },
   "rows": [
     [

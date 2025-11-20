@@ -2,7 +2,9 @@
   "types": {
     "NpcId": "int;id",
     "ShowRequirement": "enum<RequirementType>",
+    "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
+    "HideRequirementValues": "list<int>",
     "Order": "int",
     "FunctionType": "enum<NpcMenuFunctionType>"
   },
@@ -10,14 +12,18 @@
     [
       1000008,
       "AlwaysTrue",
+      "",
       "AlwaysFalse",
+      "",
       1,
       "Talk"
     ],
     [
       1000008,
       "AlwaysTrue",
+      "",
       "AlwaysFalse",
+      "",
       2,
       "Talk"
     ]
