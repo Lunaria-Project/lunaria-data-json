@@ -45,7 +45,21 @@
     [
       "CutsceneCommand",
       3,
+      "HideFullIllustration",
+      "",
+      ""
+    ],
+    [
+      "CutsceneCommand",
+      4,
       "ShowSpotIllustration",
+      "",
+      ""
+    ],
+    [
+      "CutsceneCommand",
+      5,
+      "HideSpotIllustration",
       "",
       ""
     ]
