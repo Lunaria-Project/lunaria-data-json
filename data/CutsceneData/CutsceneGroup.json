@@ -1,6 +1,6 @@
 {
   "types": {
-    "CutsceneGroupId": "int;id",
+    "CutsceneGroupId": "int;key;id",
     "CutsceneGroupName": "string",
     "TriggerRequirementType": "enum<RequirementType>",
     "TriggerRequirementValues": "list<int>",
