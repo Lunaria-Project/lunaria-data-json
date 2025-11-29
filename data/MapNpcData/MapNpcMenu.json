@@ -7,7 +7,7 @@
     "HideRequirementValues": "list<int>",
     "Order": "int",
     "FunctionType": "enum<NpcMenuFunctionType>",
-    "FunctionValues": "int;id",
+    "FunctionValue": "int;id",
     "FunctionName": "string"
   },
   "rows": [
