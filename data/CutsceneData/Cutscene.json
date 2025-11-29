@@ -1,0 +1,44 @@
+{
+  "types": {
+    "CutsceneGroupId": "int;id",
+    "CutsceneId": "int;id",
+    "Order": "int",
+    "CutsceneCommand": "enum<CutsceneCommand>",
+    "CutsceneMessage": "string",
+    "IntValues": "list<int>",
+    "StringValues": "list<string>",
+    "Position": "vector2"
+  },
+  "rows": [
+    [
+      1000011,
+      1000012,
+      1,
+      "ShowDialog",
+      "ShowDialog",
+      "[테스트용_캐릭터아이디]",
+      "",
+      "100,0"
+    ],
+    [
+      1000010,
+      1000013,
+      1,
+      "ShowFullIllustration",
+      "",
+      "",
+      "sp_bg_myhome_a",
+      ""
+    ],
+    [
+      0,
+      1000013,
+      2,
+      "ShowSpotIllustration",
+      "",
+      "",
+      "sp_bg_myhome_a",
+      "400,0"
+    ]
+  ]
+}

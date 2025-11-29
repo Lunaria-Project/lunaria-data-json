@@ -1,0 +1,34 @@
+{
+  "types": {
+    "CutsceneGroupId": "int;id",
+    "CutsceneGroupName": "string",
+    "TriggerRequirementType": "enum<RequirementType>",
+    "TriggerRequirementValues": "list<int>",
+    "Priority": "int",
+    "RewardIds": "list<int>",
+    "RewardQuantities": "list<int>",
+    "IsRepeatable": "bool"
+  },
+  "rows": [
+    [
+      1000009,
+      "여긴 로컬 스트링으로 바꾸자",
+      "AlwaysTrue",
+      "",
+      1,
+      "",
+      "",
+      1
+    ],
+    [
+      1000010,
+      22,
+      "AlwaysTrue",
+      "",
+      1,
+      "",
+      "",
+      1
+    ]
+  ]
+}

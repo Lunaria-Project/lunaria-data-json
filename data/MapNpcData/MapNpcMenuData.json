@@ -6,7 +6,9 @@
     "HideRequirement": "enum<RequirementType>",
     "HideRequirementValues": "list<int>",
     "Order": "int",
-    "FunctionType": "enum<NpcMenuFunctionType>"
+    "FunctionType": "enum<NpcMenuFunctionType>",
+    "FunctionValues": "int;id",
+    "FunctionName": "string"
   },
   "rows": [
     [
@@ -16,7 +18,9 @@
       "AlwaysFalse",
       "",
       1,
-      "Talk"
+      "PlayCutscene",
+      1000011,
+      "컷신1 재성"
     ],
     [
       1000008,
@@ -25,7 +29,9 @@
       "AlwaysFalse",
       "",
       2,
-      "Talk"
+      "PlayCutscene",
+      1000010,
+      "컷신2 재생"
     ]
   ]
 }

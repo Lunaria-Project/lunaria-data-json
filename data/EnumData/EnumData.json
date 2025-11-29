@@ -1,50 +1,51 @@
 {
   "types": {
     "EnumName": null,
+    "Order": null,
     "Value": null,
     "DisplayName": "string",
     "ResourceKey": "string"
   },
   "rows": [
     [
-      "ColorType",
-      "Red",
-      "",
-      ""
-    ],
-    [
-      "ColorType",
-      "Blue",
-      "",
-      ""
-    ],
-    [
-      "ColorType",
-      "Green",
-      "",
-      ""
-    ],
-    [
-      "ColorType",
-      "Yellow",
-      "",
-      ""
-    ],
-    [
       "RequirementType",
+      1,
       "AlwaysTrue",
       "",
       ""
     ],
     [
       "RequirementType",
+      2,
       "AlwaysFalse",
       "",
       ""
     ],
     [
       "NpcMenuFunctionType",
-      "Talk",
+      1,
+      "PlayCutscene",
+      "",
+      ""
+    ],
+    [
+      "CutsceneCommand",
+      1,
+      "ShowDialog",
+      "",
+      ""
+    ],
+    [
+      "CutsceneCommand",
+      2,
+      "ShowFullIllustration",
+      "",
+      ""
+    ],
+    [
+      "CutsceneCommand",
+      3,
+      "ShowSpotIllustration",
       "",
       ""
     ]
