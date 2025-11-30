@@ -64,6 +64,26 @@
       1000010,
       1000013,
       4,
+      "ShowDialog",
+      "ShowDialog",
+      "[테스트용_캐릭터아이디]",
+      "",
+      "-430,0"
+    ],
+    [
+      1000010,
+      1000013,
+      5,
+      "ShowDialog",
+      "ShowDialogFlipped",
+      "[테스트용_캐릭터아이디]",
+      "flipped",
+      "430,0"
+    ],
+    [
+      1000010,
+      1000013,
+      6,
       "HideSpotIllustration",
       "",
       "",
