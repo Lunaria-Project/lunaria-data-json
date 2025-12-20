@@ -12,25 +12,25 @@
   },
   "rows": [
     [
-      1000008,
+      1000005,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
       1,
       "PlayCutscene",
-      1000011,
+      1000000,
       "컷신1 재성"
     ],
     [
-      1000008,
+      1000005,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
       2,
       "PlayCutscene",
-      1000010,
+      1000001,
       "컷신2 재생"
     ]
   ]
