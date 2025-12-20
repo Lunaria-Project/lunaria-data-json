@@ -9,56 +9,62 @@
     [
       "int",
       "SecondsPerGameHour",
-      510,
+      510.0,
       "게임 시간 1시간 = 현실 시간 몇 초인지"
     ],
     [
       "int",
       "StartUserHp",
-      100,
+      100.0,
       "게임 시작 시 주어지는 디폴트 hp"
     ],
     [
       "int",
       "MaximumUserHp",
-      300,
+      300.0,
       "최대 hp 한도"
     ],
     [
       "int",
       "LunitesPerSolari",
-      12,
+      12.0,
       "금화 하나 당 은화 개수"
     ],
     [
       "int",
       "GrainsPerLunite",
-      12,
+      12.0,
       "은화 하나 당 동화 개수"
     ],
     [
       "int",
       "StartUserLunite",
-      1,
+      1.0,
       "게임 시작 시 주어지는 디폴트 은화 개수"
     ],
     [
       "int",
       "MaximumSolariCount",
-      99999999,
+      99999999.0,
       "최대 보유 가능한 금화 개수"
     ],
     [
       "int",
       "StartGameTimeSeconds",
-      28800,
+      28800.0,
       "하루 시작 시간"
     ],
     [
       "int",
       "EndGameTimeSeconds",
-      86400,
+      86400.0,
       "하루 끝 시간"
+    ],
+    [
+      "float",
+      "SpeedUpRate",
+      1.6,
+      "빠르게 달릴 때의 속도 배수"
     ]
   ]
 }
