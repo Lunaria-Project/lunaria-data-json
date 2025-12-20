@@ -2,13 +2,15 @@
   "types": {
     "Id": "int;key;id",
     "Name": "string",
-    "IconResourceKey": "string"
+    "IconResourceKey": "string",
+    "ItemType": "enum<ItemType>"
   },
   "rows": [
     [
       1000000,
       "솔라리",
-      "icon_solari"
+      "icon_solari",
+      "MainCoin"
     ]
   ]
 }
