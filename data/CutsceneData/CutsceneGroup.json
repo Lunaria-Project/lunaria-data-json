@@ -12,7 +12,7 @@
   "rows": [
     [
       1000000,
-      "컷신이름1",
+      "CutsceneData.CutsceneGroup.1000000",
       "AlwaysTrue",
       "",
       1,
@@ -22,7 +22,7 @@
     ],
     [
       1000001,
-      "컷신이름2",
+      "CutsceneData.CutsceneGroup.1000001",
       "AlwaysTrue",
       "",
       1,

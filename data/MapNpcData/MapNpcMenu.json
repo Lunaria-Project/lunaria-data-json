@@ -13,7 +13,7 @@
   "rows": [
     [
       1000005,
-      "컷신1 재성",
+      "MapNpcData.MapNpcMenu.1000005.1",
       "AlwaysTrue",
       "",
       "AlwaysFalse",
@@ -24,7 +24,7 @@
     ],
     [
       1000005,
-      "컷신2 재생",
+      "MapNpcData.MapNpcMenu.1000005.2",
       "AlwaysTrue",
       "",
       "AlwaysFalse",
