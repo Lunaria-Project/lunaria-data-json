@@ -1,37 +1,37 @@
 {
   "types": {
     "NpcId": "int;id",
+    "MenuName": "local_string;[NpcId][Order]",
     "ShowRequirement": "enum<RequirementType>",
     "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
     "HideRequirementValues": "list<int>",
     "Order": "int",
     "FunctionType": "enum<NpcMenuFunctionType>",
-    "FunctionValue": "int;id",
-    "FunctionName": "string"
+    "FunctionValue": "int;id"
   },
   "rows": [
     [
       1000005,
+      "컷신1 재성",
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
       1,
       "PlayCutscene",
-      1000001,
-      "컷신1 재성"
+      1000001
     ],
     [
       1000005,
+      "컷신2 재생",
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
       2,
       "PlayCutscene",
-      1000002,
-      "컷신2 재생"
+      1000002
     ]
   ]
 }

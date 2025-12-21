@@ -1,7 +1,7 @@
 {
   "types": {
     "CutsceneGroupId": "int;key;id",
-    "CutsceneGroupName": "string",
+    "CutsceneGroupName": "local_string;[CutsceneGroupId]",
     "TriggerRequirementType": "enum<RequirementType>",
     "TriggerRequirementValues": "list<int>",
     "Priority": "int",
@@ -12,7 +12,7 @@
   "rows": [
     [
       1000001,
-      "여긴 로컬 스트링으로 바꾸자",
+      "컷신이름1",
       "AlwaysTrue",
       "",
       1,
@@ -22,7 +22,7 @@
     ],
     [
       1000002,
-      22,
+      "컷신이름2",
       "AlwaysTrue",
       "",
       1,

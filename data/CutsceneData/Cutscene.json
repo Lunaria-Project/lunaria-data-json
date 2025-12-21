@@ -4,7 +4,7 @@
     "CutsceneId": "int;id",
     "Order": "int",
     "CutsceneCommand": "enum<CutsceneCommand>",
-    "CutsceneMessage": "string",
+    "CutsceneMessage": "local_string;[CutsceneId][Order]",
     "IntValues": "list<int>",
     "StringValues": "list<string>",
     "Position": "vector2"

@@ -1,7 +1,7 @@
 {
   "types": {
     "Id": "int;key;id",
-    "Name": "string",
+    "Name": "local_string;[Id]",
     "IconResourceKey": "string",
     "ItemType": "enum<ItemType>"
   },
