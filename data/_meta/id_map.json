@@ -25,16 +25,16 @@
       "columnName": "CutsceneId"
     },
     {
-      "string": "솔라뱅크_화폐",
+      "string": "테스트용_컷신1_선택지1",
       "int": 1000004,
-      "sheetName": "Item",
-      "columnName": "Id"
+      "sheetName": "CutsceneSelection",
+      "columnName": "SelectionId"
     },
     {
-      "string": "테스트_npc",
+      "string": "테스트용_컷신1_선택지2",
       "int": 1000005,
-      "sheetName": "MapNpcInfo",
-      "columnName": "NpcId"
+      "sheetName": "CutsceneSelection",
+      "columnName": "SelectionId"
     }
   ]
 }

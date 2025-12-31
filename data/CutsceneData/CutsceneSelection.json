@@ -1,0 +1,28 @@
+{
+  "types": {
+    "SelectionId": "int;key;id",
+    "ShowRequirement": "enum<RequirementType>",
+    "ShowRequirementValues": "list<int>",
+    "HideRequirement": "enum<RequirementType>",
+    "HideRequirementValues": "list<int>",
+    "SelectionTitle": "local_string;[SelectionId]"
+  },
+  "rows": [
+    [
+      1000004,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      "CutsceneData.CutsceneSelection.1000004"
+    ],
+    [
+      1000005,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      "CutsceneData.CutsceneSelection.1000005"
+    ]
+  ]
+}
