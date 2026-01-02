@@ -6,7 +6,7 @@
     "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
     "HideRequirementValues": "list<int>",
-    "Order": "int",
+    "Order": "int;id",
     "FunctionType": "enum<NpcMenuFunctionType>",
     "FunctionValue": "int;id"
   },

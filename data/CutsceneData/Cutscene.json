@@ -1,7 +1,7 @@
 {
   "types": {
     "CutsceneId": "int;id",
-    "Order": "int",
+    "Order": "int;id",
     "CutsceneCommand": "enum<CutsceneCommand>",
     "CutsceneMessage": "local_string;[CutsceneId][Order]",
     "IntValues": "list<int>",
@@ -14,7 +14,7 @@
       1,
       "ShowDialog",
       "CutsceneData.Cutscene.1000001.1",
-      "[테스트용_캐릭터아이디]",
+      "1000003",
       "",
       "-430,0"
     ],
@@ -23,7 +23,7 @@
       2,
       "ShowDialog",
       "CutsceneData.Cutscene.1000001.2",
-      "[테스트용_캐릭터아이디]",
+      "1000003",
       "flipped",
       "430,0"
     ],
@@ -32,7 +32,7 @@
       3,
       "Selection",
       "",
-      "[테스트용_컷신1_선택지1],[테스트용_컷신1_선택지2]",
+      "1000004,1000005",
       "default_cutscene_selection",
       ""
     ],
@@ -68,7 +68,7 @@
       4,
       "ShowDialog",
       "CutsceneData.Cutscene.1000002.4",
-      "[테스트용_캐릭터아이디]",
+      "1000003",
       "",
       "-430,0"
     ],
@@ -77,7 +77,7 @@
       5,
       "ShowDialog",
       "CutsceneData.Cutscene.1000002.5",
-      "[테스트용_캐릭터아이디]",
+      "1000003",
       "flipped",
       "430,0"
     ],

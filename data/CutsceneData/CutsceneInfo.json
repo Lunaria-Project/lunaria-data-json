@@ -4,7 +4,7 @@
     "CutsceneName": "local_string;[CutsceneId]",
     "TriggerRequirementType": "enum<RequirementType>",
     "TriggerRequirementValues": "list<int>",
-    "Priority": "int",
+    "Priority": "int;id",
     "RewardIds": "list<int>",
     "RewardQuantities": "list<int>",
     "IsRepeatable": "bool"

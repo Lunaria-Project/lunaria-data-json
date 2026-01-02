@@ -2,45 +2,31 @@
   "tags": [
     {
       "string": "테스트_npc",
-      "int": 1000000,
-      "sheetName": "MapNpcInfo",
-      "columnName": "NpcId"
+      "int": 1000000
     },
     {
       "string": "테스트용_컷신1",
-      "int": 1000001,
-      "sheetName": "MapNpcMenu",
-      "columnName": "FunctionValue"
+      "int": 1000001
     },
     {
       "string": "테스트용_컷신2",
-      "int": 1000002,
-      "sheetName": "MapNpcMenu",
-      "columnName": "FunctionValue"
+      "int": 1000002
     },
     {
       "string": "테스트용_캐릭터아이디",
-      "int": 1000003,
-      "sheetName": "CharacterInfo",
-      "columnName": "Id"
+      "int": 1000003
     },
     {
       "string": "테스트용_컷신1_선택지1",
-      "int": 1000004,
-      "sheetName": "CutsceneSelection",
-      "columnName": "SelectionId"
+      "int": 1000004
     },
     {
       "string": "테스트용_컷신1_선택지2",
-      "int": 1000005,
-      "sheetName": "CutsceneSelection",
-      "columnName": "SelectionId"
+      "int": 1000005
     },
     {
       "string": "솔라뱅크_화폐",
-      "int": 1000006,
-      "sheetName": "Item",
-      "columnName": "Id"
+      "int": 1000006
     }
   ]
 }
