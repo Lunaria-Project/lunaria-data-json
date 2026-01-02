@@ -2,7 +2,7 @@
   "types": {
     "Id": "int;key;id",
     "Name": "local_string;[Id]",
-    "IconResourceKey": "string"
+    "ResourceKey": "string"
   },
   "rows": [
     [
