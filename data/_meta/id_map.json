@@ -1,50 +1,20 @@
 {
   "tags": [
     {
-      "string": "테스트용_컷신1",
-      "int": 1000000,
-      "sheetName": "CutsceneInfo",
-      "columnName": "CutsceneId"
-    },
-    {
-      "string": "테스트용_컷신2",
-      "int": 1000001,
-      "sheetName": "CutsceneInfo",
-      "columnName": "CutsceneId"
-    },
-    {
-      "string": "테스트용_컷신1_선택지1",
-      "int": 1000002,
-      "sheetName": "CutsceneSelection",
-      "columnName": "SelectionId"
-    },
-    {
-      "string": "테스트용_컷신1_선택지2",
-      "int": 1000003,
-      "sheetName": "CutsceneSelection",
-      "columnName": "SelectionId"
-    },
-    {
-      "string": "솔라뱅크_화폐",
-      "int": 1000004,
-      "sheetName": "Item",
-      "columnName": "Id"
-    },
-    {
       "string": "테스트_npc",
-      "int": 1000005,
+      "int": 1000000,
       "sheetName": "MapNpcInfo",
       "columnName": "NpcId"
     },
     {
-      "string": "테스트용_컷신그룹아이디1",
-      "int": 1000006,
+      "string": "테스트용_컷신1",
+      "int": 1000001,
       "sheetName": "MapNpcMenu",
       "columnName": "FunctionValue"
     },
     {
-      "string": "테스트용_컷신그룹아이디2",
-      "int": 1000007,
+      "string": "테스트용_컷신2",
+      "int": 1000002,
       "sheetName": "MapNpcMenu",
       "columnName": "FunctionValue"
     }

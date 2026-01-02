@@ -1,55 +1,10 @@
 {
-  "CutsceneData.Cutscene.1000000.1": {
-    "ko": "ShowDialog",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000000.2": {
-    "ko": "ShowDialogFlipped",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000001.4": {
-    "ko": "ShowDialog",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000001.5": {
-    "ko": "ShowDialogFlipped",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.CutsceneInfo.1000000": {
-    "ko": "컷신이름1",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.CutsceneInfo.1000001": {
-    "ko": "컷신이름2",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.CutsceneSelection.1000002": {
-    "ko": "선택지1",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.CutsceneSelection.1000003": {
-    "ko": "선택지2",
-    "en": "",
-    "ja": ""
-  },
-  "ItemData.Item.1000004": {
-    "ko": "솔라리",
-    "en": "",
-    "ja": ""
-  },
-  "MapNpcData.MapNpcMenu.1000005.1": {
+  "MapNpcData.MapNpcMenu.1000000.1": {
     "ko": "컷신1 재성",
     "en": "",
     "ja": ""
   },
-  "MapNpcData.MapNpcMenu.1000005.2": {
+  "MapNpcData.MapNpcMenu.1000000.2": {
     "ko": "컷신2 재생",
     "en": "",
     "ja": ""
