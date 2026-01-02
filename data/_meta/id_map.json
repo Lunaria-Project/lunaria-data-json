@@ -35,6 +35,12 @@
       "int": 1000005,
       "sheetName": "CutsceneSelection",
       "columnName": "SelectionId"
+    },
+    {
+      "string": "솔라뱅크_화폐",
+      "int": 1000006,
+      "sheetName": "Item",
+      "columnName": "Id"
     }
   ]
 }

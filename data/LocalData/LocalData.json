@@ -43,5 +43,20 @@
     "ko": "선택지2",
     "en": "",
     "ja": ""
+  },
+  "ItemData.Item.1000006": {
+    "ko": "솔라리",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000000.1": {
+    "ko": "컷신1 재성",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000000.2": {
+    "ko": "컷신2 재생",
+    "en": "",
+    "ja": ""
   }
 }

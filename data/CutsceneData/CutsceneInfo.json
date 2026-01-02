@@ -11,8 +11,8 @@
   },
   "rows": [
     [
-      1000000,
-      "CutsceneData.CutsceneInfo.1000000",
+      1000001,
+      "CutsceneData.CutsceneInfo.1000001",
       "AlwaysTrue",
       "",
       1,
@@ -21,8 +21,8 @@
       1
     ],
     [
-      1000001,
-      "CutsceneData.CutsceneInfo.1000001",
+      1000002,
+      "CutsceneData.CutsceneInfo.1000002",
       "AlwaysTrue",
       "",
       1,

@@ -10,22 +10,22 @@
   },
   "rows": [
     [
-      1000002,
+      1000004,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
-      "CutsceneData.CutsceneSelection.1000002",
-      1000000
+      "CutsceneData.CutsceneSelection.1000004",
+      1000001
     ],
     [
-      1000003,
+      1000005,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
-      "CutsceneData.CutsceneSelection.1000003",
-      1000001
+      "CutsceneData.CutsceneSelection.1000005",
+      1000002
     ]
   ]
 }

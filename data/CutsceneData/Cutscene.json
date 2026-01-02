@@ -10,25 +10,25 @@
   },
   "rows": [
     [
-      1000000,
+      1000001,
       1,
       "ShowDialog",
-      "CutsceneData.Cutscene.1000000.1",
+      "CutsceneData.Cutscene.1000001.1",
       "[테스트용_캐릭터아이디]",
       "",
       "-430,0"
     ],
     [
-      1000000,
+      1000001,
       2,
       "ShowDialog",
-      "CutsceneData.Cutscene.1000000.2",
+      "CutsceneData.Cutscene.1000001.2",
       "[테스트용_캐릭터아이디]",
       "flipped",
       "430,0"
     ],
     [
-      1000000,
+      1000001,
       3,
       "Selection",
       "",
@@ -37,7 +37,7 @@
       ""
     ],
     [
-      1000001,
+      1000002,
       1,
       "ShowFullIllustration",
       "",
@@ -46,7 +46,7 @@
       ""
     ],
     [
-      1000001,
+      1000002,
       2,
       "HideFullIllustration",
       "",
@@ -55,7 +55,7 @@
       ""
     ],
     [
-      1000001,
+      1000002,
       3,
       "ShowSpotIllustration",
       "",
@@ -64,25 +64,25 @@
       "400,0"
     ],
     [
-      1000001,
+      1000002,
       4,
       "ShowDialog",
-      "CutsceneData.Cutscene.1000001.4",
+      "CutsceneData.Cutscene.1000002.4",
       "[테스트용_캐릭터아이디]",
       "",
       "-430,0"
     ],
     [
-      1000001,
+      1000002,
       5,
       "ShowDialog",
-      "CutsceneData.Cutscene.1000001.5",
+      "CutsceneData.Cutscene.1000002.5",
       "[테스트용_캐릭터아이디]",
       "flipped",
       "430,0"
     ],
     [
-      1000001,
+      1000002,
       6,
       "HideSpotIllustration",
       "",
