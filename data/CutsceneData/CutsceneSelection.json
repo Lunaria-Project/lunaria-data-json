@@ -5,24 +5,27 @@
     "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
     "HideRequirementValues": "list<int>",
-    "SelectionTitle": "local_string;[SelectionId]"
+    "SelectionTitle": "local_string;[SelectionId]",
+    "SelectionCutsceneId": "int;id"
   },
   "rows": [
     [
-      1000004,
+      1000002,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
-      "CutsceneData.CutsceneSelection.1000004"
+      "CutsceneData.CutsceneSelection.1000002",
+      1000000
     ],
     [
-      1000005,
+      1000003,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
       "",
-      "CutsceneData.CutsceneSelection.1000005"
+      "CutsceneData.CutsceneSelection.1000003",
+      1000001
     ]
   ]
 }

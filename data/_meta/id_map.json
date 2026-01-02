@@ -1,38 +1,26 @@
 {
   "tags": [
     {
-      "string": "테스트용_컷신그룹아이디1",
-      "int": 1000000,
-      "sheetName": "CutsceneGroup",
-      "columnName": "CutsceneGroupId"
-    },
-    {
-      "string": "테스트용_컷신그룹아이디2",
-      "int": 1000001,
-      "sheetName": "CutsceneGroup",
-      "columnName": "CutsceneGroupId"
-    },
-    {
       "string": "테스트용_컷신1",
-      "int": 1000002,
-      "sheetName": "Cutscene",
+      "int": 1000000,
+      "sheetName": "CutsceneInfo",
       "columnName": "CutsceneId"
     },
     {
       "string": "테스트용_컷신2",
-      "int": 1000003,
-      "sheetName": "Cutscene",
+      "int": 1000001,
+      "sheetName": "CutsceneInfo",
       "columnName": "CutsceneId"
     },
     {
       "string": "테스트용_컷신1_선택지1",
-      "int": 1000004,
+      "int": 1000002,
       "sheetName": "CutsceneSelection",
       "columnName": "SelectionId"
     },
     {
       "string": "테스트용_컷신1_선택지2",
-      "int": 1000005,
+      "int": 1000003,
       "sheetName": "CutsceneSelection",
       "columnName": "SelectionId"
     }
