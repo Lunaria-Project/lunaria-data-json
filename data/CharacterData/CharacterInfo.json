@@ -1,0 +1,14 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "Name": "local_string;[Id]",
+    "IconResourceKey": "string"
+  },
+  "rows": [
+    [
+      1000003,
+      "CharacterData.CharacterInfo.1000003",
+      "character_test_01"
+    ]
+  ]
+}

@@ -17,6 +17,24 @@
       "int": 1000002,
       "sheetName": "MapNpcMenu",
       "columnName": "FunctionValue"
+    },
+    {
+      "string": "테스트용_캐릭터아이디",
+      "int": 1000003,
+      "sheetName": "CharacterInfo",
+      "columnName": "Id"
+    },
+    {
+      "string": "테스트용_컷신1_선택지1",
+      "int": 1000004,
+      "sheetName": "CutsceneSelection",
+      "columnName": "SelectionId"
+    },
+    {
+      "string": "테스트용_컷신1_선택지2",
+      "int": 1000005,
+      "sheetName": "CutsceneSelection",
+      "columnName": "SelectionId"
     }
   ]
 }

@@ -1,11 +1,46 @@
 {
-  "MapNpcData.MapNpcMenu.1000000.1": {
-    "ko": "컷신1 재성",
+  "CharacterData.CharacterInfo.1000003": {
+    "ko": "테스트용 캐릭터",
     "en": "",
     "ja": ""
   },
-  "MapNpcData.MapNpcMenu.1000000.2": {
-    "ko": "컷신2 재생",
+  "CutsceneData.Cutscene.1000001.1": {
+    "ko": "ShowDialog",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000001.2": {
+    "ko": "ShowDialogFlipped",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000002.4": {
+    "ko": "ShowDialog",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000002.5": {
+    "ko": "ShowDialogFlipped",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneInfo.1000001": {
+    "ko": "컷신이름1",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneInfo.1000002": {
+    "ko": "컷신이름2",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneSelection.1000004": {
+    "ko": "선택지1",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneSelection.1000005": {
+    "ko": "선택지2",
     "en": "",
     "ja": ""
   }
