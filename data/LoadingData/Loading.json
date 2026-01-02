@@ -1,0 +1,19 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "Description": "local_string;[Id]",
+    "ResourceKey": "string"
+  },
+  "rows": [
+    [
+      1000007,
+      "LoadingData.Loading.1000007",
+      "sp_bg_myhome_a"
+    ],
+    [
+      1000008,
+      "LoadingData.Loading.1000008",
+      "sp_bg_myhome_a"
+    ]
+  ]
+}
