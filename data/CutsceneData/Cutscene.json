@@ -1,7 +1,7 @@
 {
   "types": {
     "CutsceneId": "int;id",
-    "Order": "int;id",
+    "Order": "int",
     "CutsceneCommand": "enum<CutsceneCommand>",
     "CutsceneMessage": "local_string;[CutsceneId][Order]",
     "IntValues": "list<int>",
