@@ -1,6 +1,11 @@
 {
-  "CharacterData.CharacterInfo.1000003": {
-    "ko": "테스트용 캐릭터",
+  "CharacterData.CharacterInfo.1000011": {
+    "ko": "새턴",
+    "en": "",
+    "ja": ""
+  },
+  "CharacterData.CharacterInfo.1000012": {
+    "ko": "슬라임",
     "en": "",
     "ja": ""
   },
@@ -24,13 +29,18 @@
     "en": "",
     "ja": ""
   },
-  "CutsceneData.CutsceneInfo.1000001": {
-    "ko": "컷신이름1",
+  "CutsceneData.Cutscene.1000010.1": {
+    "ko": "이건 뭐지?",
     "en": "",
     "ja": ""
   },
-  "CutsceneData.CutsceneInfo.1000002": {
-    "ko": "컷신이름2",
+  "CutsceneData.Cutscene.1000010.2": {
+    "ko": "보글보글",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000010.3": {
+    "ko": "…",
     "en": "",
     "ja": ""
   },
@@ -66,6 +76,16 @@
   },
   "MapNpcData.MapNpcMenu.1000000.2": {
     "ko": "컷신2 재생",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000009.1": {
+    "ko": "말걸기",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000009.2": {
+    "ko": "미니게임 시작",
     "en": "",
     "ja": ""
   }

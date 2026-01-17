@@ -32,6 +32,28 @@
       2,
       "PlayCutscene",
       1000002
+    ],
+    [
+      1000009,
+      "MapNpcData.MapNpcMenu.1000009.1",
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      1,
+      "PlayCutscene",
+      1000010
+    ],
+    [
+      1000009,
+      "MapNpcData.MapNpcMenu.1000009.2",
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      2,
+      "PlaySlimeMinigame",
+      0
     ]
   ]
 }

@@ -89,6 +89,33 @@
       "",
       "",
       ""
+    ],
+    [
+      1000010,
+      1,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000010.1",
+      "1000011",
+      "",
+      "-430,0"
+    ],
+    [
+      1000010,
+      2,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000010.2",
+      "1000012",
+      "flipped",
+      "430,0"
+    ],
+    [
+      1000010,
+      3,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000010.3",
+      "1000011",
+      "",
+      "-430,0"
     ]
   ]
 }

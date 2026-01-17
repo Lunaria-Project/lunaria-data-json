@@ -6,9 +6,14 @@
   },
   "rows": [
     [
-      1000003,
-      "CharacterData.CharacterInfo.1000003",
-      "character_test_01"
+      1000011,
+      "CharacterData.CharacterInfo.1000011",
+      "character_saturn"
+    ],
+    [
+      1000012,
+      "CharacterData.CharacterInfo.1000012",
+      "character_slime"
     ]
   ]
 }
