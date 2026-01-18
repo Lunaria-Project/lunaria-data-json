@@ -4,15 +4,17 @@
     "ShowRequirement": "enum<RequirementType>",
     "ShowRequirementValues": "list<int>",
     "HideRequirement": "enum<RequirementType>",
-    "HideRequirementValues": "list<int>"
+    "HideRequirementValues": "list<int>",
+    "CharacterId": "int;id"
   },
   "rows": [
     [
-      1000000,
+      1000009,
       "AlwaysTrue",
       "",
       "AlwaysFalse",
-      ""
+      "",
+      1000012
     ]
   ]
 }
