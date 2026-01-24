@@ -3,44 +3,51 @@
     "Id": "int;key;id",
     "Name": "local_string;[Id]",
     "IconResourceKey": "string",
-    "ItemType": "enum<ItemType>"
+    "ItemType": "enum<ItemType>",
+    "Order": "int"
   },
   "rows": [
     [
       1000006,
       "ItemData.Item.1000006",
       "icon_solari",
-      "MainCoin"
+      "MainCoin",
+      1
     ],
     [
       1000018,
       "ItemData.Item.1000018",
       "artifact_stick",
-      "Artifact"
+      "Artifact",
+      1
     ],
     [
       1000019,
       "ItemData.Item.1000019",
       "artifact_powder",
-      "Artifact"
+      "Artifact",
+      2
     ],
     [
       1000020,
       "ItemData.Item.1000020",
       "artifact_bubblegun",
-      "Artifact"
+      "Artifact",
+      3
     ],
     [
       1000021,
       "ItemData.Item.1000021",
       "artifact_grinder",
-      "Artifact"
+      "Artifact",
+      4
     ],
     [
       1000022,
       "ItemData.Item.1000022",
       "artifact_pendant",
-      "Artifact"
+      "Artifact",
+      5
     ]
   ]
 }
