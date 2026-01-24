@@ -26,6 +26,24 @@
       "",
       "CutsceneData.CutsceneSelection.1000005",
       1000002
+    ],
+    [
+      1000014,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      "CutsceneData.CutsceneSelection.1000014",
+      1000016
+    ],
+    [
+      1000015,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      "CutsceneData.CutsceneSelection.1000015",
+      1000017
     ]
   ]
 }

@@ -44,6 +44,46 @@
     "en": "",
     "ja": ""
   },
+  "CutsceneData.Cutscene.1000013.1": {
+    "ko": "똑똑, 똑똑!",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.2": {
+    "ko": "편지 왔어요!",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.3": {
+    "ko": "먼저 받으시는 분 성함을 확인할께요.",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.4": {
+    "ko": "새턴…",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.6": {
+    "ko": "새턴 위치우드씨..? \n제가 맞게 찾아왔길 바랍니다..",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.7": {
+    "ko": "맞다면 여기, 등기로 온 문서가 있으니 서명해주시겠어요?",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.8": {
+    "ko": "어떤…아! 마법소녀 통신 스쿨의 수료증!",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000013.9": {
+    "ko": "맞아! 세번째 시도만에 합격이야!",
+    "en": "",
+    "ja": ""
+  },
   "CutsceneData.CutsceneSelection.1000004": {
     "ko": "선택지1",
     "en": "",
@@ -51,6 +91,16 @@
   },
   "CutsceneData.CutsceneSelection.1000005": {
     "ko": "선택지2",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneSelection.1000014": {
+    "ko": "맞아",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.CutsceneSelection.1000015": {
+    "ko": "글쎄?",
     "en": "",
     "ja": ""
   },

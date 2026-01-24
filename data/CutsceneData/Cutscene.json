@@ -12,7 +12,7 @@
     [
       1000001,
       1,
-      "ShowDialog",
+      "D",
       "CutsceneData.Cutscene.1000001.1",
       "1000003",
       "",
@@ -116,6 +116,87 @@
       "1000011",
       "",
       "-430,0"
+    ],
+    [
+      1000013,
+      1,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.1",
+      "",
+      "",
+      ""
+    ],
+    [
+      1000013,
+      2,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.2",
+      "1000012",
+      "",
+      "-430,0"
+    ],
+    [
+      1000013,
+      3,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.3",
+      "1000012",
+      "",
+      "-430,0"
+    ],
+    [
+      1000013,
+      4,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.4",
+      "1000012",
+      "",
+      "-430,0"
+    ],
+    [
+      1000013,
+      5,
+      "Selection",
+      "",
+      "1000014,1000015",
+      "default_cutscene_selection",
+      ""
+    ],
+    [
+      1000013,
+      6,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.6",
+      "1000012",
+      "",
+      "-430,0"
+    ],
+    [
+      1000013,
+      7,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.7",
+      "1000012",
+      "",
+      "-430,0"
+    ],
+    [
+      1000013,
+      8,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.8",
+      "1000011",
+      "",
+      "430,0"
+    ],
+    [
+      1000013,
+      9,
+      "ShowDialog",
+      "CutsceneData.Cutscene.1000013.9",
+      "1000011",
+      "",
+      "430,0"
     ]
   ]
 }
