@@ -11,6 +11,36 @@
       "ItemData.Item.1000006",
       "icon_solari",
       "MainCoin"
+    ],
+    [
+      1000018,
+      "ItemData.Item.1000018",
+      "artifact_stick",
+      "Artifact"
+    ],
+    [
+      1000019,
+      "ItemData.Item.1000019",
+      "artifact_powder",
+      "Artifact"
+    ],
+    [
+      1000020,
+      "ItemData.Item.1000020",
+      "artifact_bubblegun",
+      "Artifact"
+    ],
+    [
+      1000021,
+      "ItemData.Item.1000021",
+      "artifact_grinder",
+      "Artifact"
+    ],
+    [
+      1000022,
+      "ItemData.Item.1000022",
+      "artifact_pendant",
+      "Artifact"
     ]
   ]
 }
