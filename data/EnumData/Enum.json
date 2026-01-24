@@ -90,6 +90,41 @@
       "Artifact",
       "",
       ""
+    ],
+    [
+      "ArtifactType",
+      1,
+      "Stick",
+      "",
+      ""
+    ],
+    [
+      "ArtifactType",
+      2,
+      "Powder",
+      "",
+      ""
+    ],
+    [
+      "ArtifactType",
+      3,
+      "Bubblegun",
+      "",
+      ""
+    ],
+    [
+      "ArtifactType",
+      4,
+      "Grinder",
+      "",
+      ""
+    ],
+    [
+      "ArtifactType",
+      5,
+      "Pendant",
+      "",
+      ""
     ]
   ]
 }

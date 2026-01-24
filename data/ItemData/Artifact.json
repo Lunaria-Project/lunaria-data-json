@@ -1,0 +1,28 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "ArtifactType": "enum<ArtifactType>"
+  },
+  "rows": [
+    [
+      1000018,
+      "Stick"
+    ],
+    [
+      1000019,
+      "Powder"
+    ],
+    [
+      1000020,
+      "Bubblegun"
+    ],
+    [
+      1000021,
+      "Grinder"
+    ],
+    [
+      1000022,
+      "Pendant"
+    ]
+  ]
+}
