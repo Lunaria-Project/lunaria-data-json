@@ -8,7 +8,6 @@
     "HideRequirementValues": "list<int>",
     "Order": "int",
     "Priority": "int",
-    "ShowBubble": "bool",
     "FunctionType": "enum<NpcMenuFunctionType>",
     "FunctionValue": "int;id"
   },
@@ -22,7 +21,6 @@
       "",
       1,
       1,
-      0,
       "PlayCutscene",
       1000010
     ],
@@ -35,7 +33,6 @@
       "",
       2,
       10,
-      1,
       "PlaySlimeMinigame",
       0
     ]

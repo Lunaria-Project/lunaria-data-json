@@ -38,6 +38,13 @@
     [
       "NpcMenuFunctionType",
       2,
+      "PlayFixedCutscene",
+      "",
+      ""
+    ],
+    [
+      "NpcMenuFunctionType",
+      3,
       "PlaySlimeMinigame",
       "",
       ""
