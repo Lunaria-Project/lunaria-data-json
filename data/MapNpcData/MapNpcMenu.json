@@ -20,7 +20,7 @@
       "AlwaysFalse",
       "",
       1,
-      "",
+      0,
       "PlayCutscene",
       1000010
     ],
@@ -32,7 +32,7 @@
       "AlwaysFalse",
       "",
       2,
-      "",
+      1,
       "PlaySlimeMinigame",
       0
     ]
