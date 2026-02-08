@@ -7,32 +7,11 @@
     "HideRequirement": "enum<RequirementType>",
     "HideRequirementValues": "list<int>",
     "Order": "int",
+    "ShowBubble": "bool",
     "FunctionType": "enum<NpcMenuFunctionType>",
     "FunctionValue": "int;id"
   },
   "rows": [
-    [
-      1000000,
-      "MapNpcData.MapNpcMenu.1000000.1",
-      "AlwaysTrue",
-      "",
-      "AlwaysFalse",
-      "",
-      1,
-      "PlayCutscene",
-      1000001
-    ],
-    [
-      1000000,
-      "MapNpcData.MapNpcMenu.1000000.2",
-      "AlwaysTrue",
-      "",
-      "AlwaysFalse",
-      "",
-      2,
-      "PlayCutscene",
-      1000002
-    ],
     [
       1000009,
       "MapNpcData.MapNpcMenu.1000009.1",
@@ -41,6 +20,7 @@
       "AlwaysFalse",
       "",
       1,
+      "",
       "PlayCutscene",
       1000010
     ],
@@ -52,6 +32,7 @@
       "AlwaysFalse",
       "",
       2,
+      "",
       "PlaySlimeMinigame",
       0
     ]

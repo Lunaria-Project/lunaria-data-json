@@ -11,6 +11,10 @@
     [
       "AlwaysFalse",
       "항상 false"
+    ],
+    [
+      "ActivateDuration",
+      "HHMM 값으로 시작(inclusive), 끝 시간(exclusive) 입력"
     ]
   ]
 }

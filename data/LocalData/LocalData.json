@@ -9,26 +9,6 @@
     "en": "",
     "ja": ""
   },
-  "CutsceneData.Cutscene.1000001.1": {
-    "ko": "ShowDialog",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000001.2": {
-    "ko": "ShowDialogFlipped",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000002.4": {
-    "ko": "ShowDialog",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000002.5": {
-    "ko": "ShowDialogFlipped",
-    "en": "",
-    "ja": ""
-  },
   "CutsceneData.Cutscene.1000010.1": {
     "ko": "이건 뭐지?",
     "en": "",
@@ -194,16 +174,6 @@
     "en": "",
     "ja": ""
   },
-  "CutsceneData.CutsceneSelection.1000004": {
-    "ko": "선택지1",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.CutsceneSelection.1000005": {
-    "ko": "선택지2",
-    "en": "",
-    "ja": ""
-  },
   "CutsceneData.CutsceneSelection.1000014": {
     "ko": "맞아",
     "en": "",
@@ -251,16 +221,6 @@
   },
   "LoadingData.Loading.1000008": {
     "ko": "로딩 내용 어쩌고 저쩌고2",
-    "en": "",
-    "ja": ""
-  },
-  "MapNpcData.MapNpcMenu.1000000.1": {
-    "ko": "컷신1 재성",
-    "en": "",
-    "ja": ""
-  },
-  "MapNpcData.MapNpcMenu.1000000.2": {
-    "ko": "컷신2 재생",
     "en": "",
     "ja": ""
   },
