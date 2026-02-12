@@ -35,18 +35,6 @@
       10,
       "PlaySlimeMinigame",
       0
-    ],
-    [
-      1000023,
-      "MapNpcData.MapNpcMenu.1000023.1",
-      "AlwaysTrue",
-      "",
-      "AlwaysFalse",
-      "",
-      1,
-      1,
-      "GoToMyhome",
-      0
     ]
   ]
 }

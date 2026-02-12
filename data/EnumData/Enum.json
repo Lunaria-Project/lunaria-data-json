@@ -50,13 +50,6 @@
       ""
     ],
     [
-      "NpcMenuFunctionType",
-      4,
-      "GoToMyhome",
-      "",
-      ""
-    ],
-    [
       "CutsceneCommand",
       1,
       "ShowDialog",
