@@ -139,6 +139,27 @@
       "Pendant",
       "",
       ""
+    ],
+    [
+      "ShopType",
+      1,
+      "CottonCandyShop",
+      "",
+      ""
+    ],
+    [
+      "ShopType",
+      2,
+      "PowderShop",
+      "",
+      ""
+    ],
+    [
+      "ShopType",
+      3,
+      "BeddingShop",
+      "",
+      ""
     ]
   ]
 }

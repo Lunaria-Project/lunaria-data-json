@@ -2,23 +2,27 @@
   "types": {
     "ShopId": "int;key;id",
     "StartTime": "int",
-    "EndTime": "int"
+    "EndTime": "int",
+    "ShopType": "enum<ShopType>"
   },
   "rows": [
     [
       1000024,
       800,
-      2400
+      2400,
+      "CottonCandyShop"
     ],
     [
       1000025,
       800,
-      2400
+      2400,
+      "PowderShop"
     ],
     [
       1000026,
       800,
-      2400
+      2400,
+      "BeddingShop"
     ]
   ]
 }
