@@ -50,6 +50,13 @@
       ""
     ],
     [
+      "NpcMenuFunctionType",
+      4,
+      "PlayPowderPortalMinigame",
+      "",
+      ""
+    ],
+    [
       "CutsceneCommand",
       1,
       "ShowDialog",

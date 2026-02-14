@@ -35,6 +35,30 @@
       10,
       "PlaySlimeMinigame",
       0
+    ],
+    [
+      1000030,
+      "MapNpcData.MapNpcMenu.1000030.1",
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      1,
+      1,
+      "PlayCutscene",
+      1000010
+    ],
+    [
+      1000031,
+      "",
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      1,
+      1,
+      "PlayPowderPortalMinigame",
+      0
     ]
   ]
 }

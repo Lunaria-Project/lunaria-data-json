@@ -9,6 +9,11 @@
     "en": "",
     "ja": ""
   },
+  "CharacterData.CharacterInfo.1000032": {
+    "ko": "리피",
+    "en": "",
+    "ja": ""
+  },
   "CutsceneData.Cutscene.1000010.1": {
     "ko": "이건 뭐지?",
     "en": "",
@@ -246,6 +251,11 @@
   },
   "MapNpcData.MapNpcMenu.1000009.2": {
     "ko": "미니게임 시작",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000030.1": {
+    "ko": "말걸기",
     "en": "",
     "ja": ""
   }

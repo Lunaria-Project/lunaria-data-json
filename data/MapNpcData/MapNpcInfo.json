@@ -15,6 +15,22 @@
       "AlwaysFalse",
       "",
       1000012
+    ],
+    [
+      1000030,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      1000032
+    ],
+    [
+      1000031,
+      "AlwaysTrue",
+      "",
+      "AlwaysFalse",
+      "",
+      0
     ]
   ]
 }
