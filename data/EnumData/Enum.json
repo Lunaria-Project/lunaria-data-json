@@ -160,6 +160,34 @@
       "BeddingShop",
       "",
       ""
+    ],
+    [
+      "LoadingType",
+      1,
+      "Normal",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      2,
+      "CottonCandyShop",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      3,
+      "PowderShop",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      4,
+      "BeddingShop",
+      "",
+      ""
     ]
   ]
 }

@@ -2,18 +2,39 @@
   "types": {
     "Id": "int;key;id",
     "Description": "local_string;[Id]",
-    "ResourceKey": "string"
+    "ResourceKey": "string",
+    "LoadingType": "enum<LoadingType>"
   },
   "rows": [
     [
       1000007,
       "LoadingData.Loading.1000007",
-      "myhome_background"
+      "img_myhome_background",
+      "Normal"
     ],
     [
       1000008,
       "LoadingData.Loading.1000008",
-      "myhome_background"
+      "img_myhome_background",
+      "Normal"
+    ],
+    [
+      1000027,
+      "LoadingData.Loading.1000027",
+      "img_myhome_background",
+      "CottonCandyShop"
+    ],
+    [
+      1000028,
+      "LoadingData.Loading.1000028",
+      "img_myhome_background",
+      "PowderShop"
+    ],
+    [
+      1000029,
+      "LoadingData.Loading.1000029",
+      "img_myhome_background",
+      "BeddingShop"
     ]
   ]
 }
