@@ -29,6 +29,13 @@
       ""
     ],
     [
+      "RequirementType",
+      4,
+      "MyhomeSlimeAppeared",
+      "",
+      ""
+    ],
+    [
       "NpcMenuFunctionType",
       1,
       "PlayCutscene",
@@ -193,6 +200,27 @@
       "LoadingType",
       4,
       "BeddingShop",
+      "",
+      ""
+    ],
+    [
+      "MapType",
+      1,
+      "Myhome",
+      "",
+      ""
+    ],
+    [
+      "MapType",
+      2,
+      "ShoppingSquare",
+      "",
+      ""
+    ],
+    [
+      "MapType",
+      3,
+      "PowderShop",
       "",
       ""
     ]

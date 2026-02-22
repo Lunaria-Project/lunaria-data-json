@@ -1,0 +1,18 @@
+{
+  "types": {
+    "NpcId": "int;id;key",
+    "ShowRequirement": "enum<RequirementType>",
+    "ShowRequirementValues": "list<int>",
+    "MapType": "enum<MapType>",
+    "Positions": "List<float>"
+  },
+  "rows": [
+    [
+      1000009,
+      "MyhomeSlimeAppeared",
+      "",
+      "Myhome",
+      "343,8"
+    ]
+  ]
+}

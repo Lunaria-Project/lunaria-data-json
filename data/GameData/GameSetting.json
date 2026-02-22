@@ -65,6 +65,18 @@
       "SpeedUpRate",
       1.6,
       "빠르게 달릴 때의 속도 배수"
+    ],
+    [
+      "float",
+      "MinSlimeGaugePer10Minutes",
+      1.0,
+      "10분마다 차는 슬라임 게이지 퍼센트"
+    ],
+    [
+      "float",
+      "MaxSlimeGaugePer10Minutes",
+      5.0,
+      ""
     ]
   ]
 }

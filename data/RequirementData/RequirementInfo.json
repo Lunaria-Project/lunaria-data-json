@@ -14,7 +14,11 @@
     ],
     [
       "ActivateDuration",
-      "HHMM 값으로 시작(inclusive), 끝 시간(exclusive) 입력"
+      "value=HHMM값으로 시작(inclusive), 끝 시간(exclusive)"
+    ],
+    [
+      "MyhomeSlimeAppeared",
+      "슬라임 게이지가 100%가 되었을 때 true"
     ]
   ]
 }

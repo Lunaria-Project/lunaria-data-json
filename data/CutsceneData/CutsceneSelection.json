@@ -3,8 +3,6 @@
     "SelectionId": "int;key;id",
     "ShowRequirement": "enum<RequirementType>",
     "ShowRequirementValues": "list<int>",
-    "HideRequirement": "enum<RequirementType>",
-    "HideRequirementValues": "list<int>",
     "SelectionTitle": "local_string;[SelectionId]",
     "SelectionCutsceneId": "int;id"
   },
@@ -13,16 +11,12 @@
       1000014,
       "AlwaysTrue",
       "",
-      "AlwaysFalse",
-      "",
       "CutsceneData.CutsceneSelection.1000014",
       1000016
     ],
     [
       1000015,
       "AlwaysTrue",
-      "",
-      "AlwaysFalse",
       "",
       "CutsceneData.CutsceneSelection.1000015",
       1000017
