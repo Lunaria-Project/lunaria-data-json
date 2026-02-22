@@ -69,13 +69,13 @@
     [
       "float",
       "MinSlimeGaugePer10Minutes",
-      1.0,
+      0.1736,
       "10분마다 차는 슬라임 게이지 퍼센트"
     ],
     [
       "float",
       "MaxSlimeGaugePer10Minutes",
-      5.0,
+      0.1488,
       ""
     ]
   ]
