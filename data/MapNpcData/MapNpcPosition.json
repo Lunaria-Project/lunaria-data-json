@@ -1,10 +1,10 @@
 {
   "types": {
-    "NpcId": "int;id;key",
+    "NpcId": "int;id",
     "ShowRequirement": "enum<RequirementType>",
     "ShowRequirementValues": "list<int>",
     "MapType": "enum<MapType>",
-    "Positions": "List<float>"
+    "Positions": "list<float>"
   },
   "rows": [
     [
