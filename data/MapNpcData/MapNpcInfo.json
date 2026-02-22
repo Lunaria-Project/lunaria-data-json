@@ -2,9 +2,9 @@
   "types": {
     "NpcId": "int;id;key",
     "CharacterId": "int;id",
-    "SpritePositionAndScale": "List<float>",
+    "SpritePositionAndScale": "list<float>",
     "ColliderScale": "float",
-    "CompassUIPosition": "List<float>"
+    "CompassUIPosition": "list<float>"
   },
   "rows": [
     [
