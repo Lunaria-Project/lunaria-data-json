@@ -1,7 +1,6 @@
 {
   "types": {
     "NpcId": "int;id;key",
-    "CharacterId": "int;id",
     "ResourceKey": "string",
     "SpritePositionAndScale": "list<float>",
     "ColliderRadius": "float",
@@ -9,20 +8,11 @@
   },
   "rows": [
     [
-      1000009,
-      1000012,
-      "",
-      "0,36,0.5",
-      40,
-      "0,145"
-    ],
-    [
-      1000030,
-      1000032,
-      "",
-      "0,78,0.5",
-      150,
-      "0,280"
+      1000031,
+      "img_powder_shop_mirror",
+      "-22,84,1",
+      50,
+      "-21,248"
     ]
   ]
 }
