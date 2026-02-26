@@ -2,6 +2,7 @@
   "types": {
     "NpcId": "int;id;key",
     "CharacterId": "int;id",
+    "ResourceKey": "string",
     "SpritePositionAndScale": "list<float>",
     "ColliderScale": "float",
     "CompassUIPosition": "list<float>"
@@ -10,13 +11,15 @@
     [
       1000009,
       1000012,
-      "0,0,0.5",
+      "",
+      "0,36,0.5",
       40,
       "0,220"
     ],
     [
       1000031,
       0,
+      "img_powder_shop_mirror",
       "-22,84,1",
       50,
       "-21,248"
@@ -24,6 +27,7 @@
     [
       1000030,
       1000032,
+      "",
       "0,78,0.5",
       150,
       "0,280"
