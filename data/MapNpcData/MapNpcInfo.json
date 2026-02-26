@@ -4,7 +4,7 @@
     "CharacterId": "int;id",
     "ResourceKey": "string",
     "SpritePositionAndScale": "list<float>",
-    "ColliderScale": "float",
+    "ColliderRadius": "float",
     "CompassUIPosition": "list<float>"
   },
   "rows": [
