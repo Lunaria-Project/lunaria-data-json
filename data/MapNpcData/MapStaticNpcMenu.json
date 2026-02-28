@@ -1,0 +1,24 @@
+{
+  "types": {
+    "NpcId": "int;id",
+    "MenuName": "local_string;[NpcId][Order]",
+    "ShowRequirement": "enum<RequirementType>",
+    "ShowRequirementValues": "list<int>",
+    "Order": "int",
+    "Priority": "int",
+    "FunctionType": "enum<NpcMenuFunctionType>",
+    "FunctionValue": "int"
+  },
+  "rows": [
+    [
+      1000031,
+      "MapNpcData.MapStaticNpcMenu.1000031.1",
+      "AlwaysTrue",
+      "",
+      1,
+      1,
+      "PlayPowderPortalMinigame",
+      0
+    ]
+  ]
+}

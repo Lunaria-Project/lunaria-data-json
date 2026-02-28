@@ -43,17 +43,6 @@
       0,
       "PlayCutscene",
       1000010
-    ],
-    [
-      1000031,
-      "MapNpcData.MapNpcMenu.1000031.1",
-      "AlwaysTrue",
-      "",
-      1,
-      1,
-      0,
-      "PlayPowderPortalMinigame",
-      0
     ]
   ]
 }
