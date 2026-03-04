@@ -17,19 +17,8 @@
       "AlwaysTrue",
       "",
       1,
-      1,
-      0,
-      "PlayCutscene",
-      1000010
-    ],
-    [
-      1000009,
-      "MapNpcData.MapNpcMenu.1000009.2",
-      "AlwaysTrue",
-      "",
-      2,
       10,
-      1,
+      0,
       "PlaySlimeMinigame",
       0
     ],
