@@ -223,6 +223,13 @@
       "",
       "",
       ""
+    ],
+    [
+      "NpcSelectionPopup.ExitButton",
+      "대화 마치기",
+      "",
+      "",
+      ""
     ]
   ]
 }

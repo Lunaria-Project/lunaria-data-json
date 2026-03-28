@@ -14,21 +14,6 @@
     "en": "",
     "ja": ""
   },
-  "CutsceneData.Cutscene.1000010.1": {
-    "ko": "이건 뭐지?",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000010.2": {
-    "ko": "보글보글",
-    "en": "",
-    "ja": ""
-  },
-  "CutsceneData.Cutscene.1000010.3": {
-    "ko": "...",
-    "en": "",
-    "ja": ""
-  },
   "CutsceneData.Cutscene.1000013.1": {
     "ko": "똑똑, 똑똑!",
     "en": "",
@@ -181,6 +166,16 @@
   },
   "CutsceneData.Cutscene.1000033.1": {
     "ko": "여긴 지솜님이 다음 빌드에 작업할거야.",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000034.1": {
+    "ko": "아티팩트가 없다!",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000035.1": {
+    "ko": "아티팩트가 없다!",
     "en": "",
     "ja": ""
   },
