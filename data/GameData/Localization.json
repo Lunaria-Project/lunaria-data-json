@@ -1,0 +1,14 @@
+{
+  "types": {
+    "GameTime.Am": "key",
+    "AM": "ja"
+  },
+  "rows": [
+    [
+      "GameTime.Pm",
+      "PM",
+      "PM",
+      "PM"
+    ]
+  ]
+}
