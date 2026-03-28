@@ -3,20 +3,226 @@
     "key": null,
     "ko": null,
     "en": null,
-    "ja": null
+    "ja": null,
+    "UseInCode": "bool"
   },
   "rows": [
     [
       "GameTime.Am",
       "AM",
       "AM",
-      "AM"
+      "AM",
+      1.0
     ],
     [
       "GameTime.Pm",
       "PM",
       "PM",
-      "PM"
+      "PM",
+      1.0
+    ],
+    [
+      "Minigame.Slime.Score",
+      "{0}방울",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "FamiliarSelectPopup.Title",
+      "아르바이트를 대신할 사역마를 골라주세요.",
+      "",
+      "",
+      ""
+    ],
+    [
+      "FamiliarSelectPopup.ConfirmButton",
+      "사역마 시키기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "FamiliarSelectPopup.CancelButton",
+      "뒤로가기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "FamiliarSelectPopup.BottomGuide",
+      "지금 보내면 ({0}) 후에 복귀해요",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "ShortcutPopup.ShortcutButton",
+      "이동",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.Title",
+      "슬라임을 때려잡자",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.TimeGuide",
+      "1분이 끝나면 종료!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.RewardGuide",
+      "보상: 슬라임 접착제",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.Guide1",
+      "슬라임 레벨에 맞춰서 버블건으로 공격!!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.Guide2",
+      "슬라임은 방 이곳저곳에서 출몰해",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.Guide3",
+      "나쁜 슬라임과 착한 슬라임이 있다는거 잊지 말기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameInfoPopup.BottomGuide",
+      "착한 슬라임을 제거하면 점수가 차감되니까 조심해!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameReadyPopup.Description",
+      "방을 너무 오래 비워두었나? 끈적끈적한 슬라임들이 등장해서 방을\\n어지럽히기 시작했어! 하지만 걱정마 버블건과 함께라면 한방에 슥삭!\\n이 버릇없는 젤리들에게 건법으로 예의를 가르쳐주자!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameResultPopup.Title",
+      "캐치캐치 슬라임 박멸완료!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SlimeMinigameResultPopup.Description",
+      "({0})이/가 완성되었어요",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "PowderMinigameInfoPopup.TimeGuide",
+      "1분이 끝나면 종료!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameInfoPopup.RewardGuide",
+      "보상: 모은 파우더",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameInfoPopup.Guide1",
+      "파란 사역마는 천계 포탈로!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameInfoPopup.Guide2",
+      "분홍 사역마는 마 포탈로!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameInfoPopup.Guide3",
+      "초록 사역마는 다시 파우더 룸으로",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameInfoPopup.BottomGuide",
+      "사역마들을 잘못 전송하면 모은 파우더 가루가 사라지니까 조심해!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MinigameReadyPopup.StartButton",
+      "아르바이트 시작",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MinigameReadyPopup.FamiliarButton",
+      "사역마 시키기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameReadyPopup.Description",
+      "파우더는 습기에 약해서 수분관리를 수분관리를 해줘야 하거든\\n준비가 된 사역마들은 천계나 마계 포탈로 슝! 알지?\\n아직 준비가 안 된 애들이 보이면 파우더룸으로 다시 보내줘! ",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MinigameResultPopup.Title",
+      "아르바이트 완료!",
+      "",
+      "",
+      ""
+    ],
+    [
+      "PowderMinigameResultPopup.Description",
+      "보답으로 파우더 가루를 받았습니다",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MinigameResultPopup.RestartButton",
+      "다시하기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MinigameResultPopup.RewardButton",
+      "보상 수령",
+      "",
+      "",
+      ""
     ]
   ]
 }
