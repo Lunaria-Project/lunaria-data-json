@@ -1,0 +1,22 @@
+{
+  "types": {
+    "key": null,
+    "ko": null,
+    "en": null,
+    "ja": null
+  },
+  "rows": [
+    [
+      "GameTime.Am",
+      "AM",
+      "AM",
+      "AM"
+    ],
+    [
+      "GameTime.Pm",
+      "PM",
+      "PM",
+      "PM"
+    ]
+  ]
+}
