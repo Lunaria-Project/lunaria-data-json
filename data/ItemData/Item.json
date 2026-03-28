@@ -48,6 +48,34 @@
       "artifact_pendant",
       "Artifact",
       5
+    ],
+    [
+      1000036,
+      "ItemData.Item.1000036",
+      "icon_basic_glue",
+      "Glue",
+      1
+    ],
+    [
+      1000037,
+      "ItemData.Item.1000037",
+      "icon_intermediate_glue",
+      "Glue",
+      2
+    ],
+    [
+      1000038,
+      "ItemData.Item.1000038",
+      "icon_advanced_glue",
+      "Glue",
+      3
+    ],
+    [
+      1000039,
+      "ItemData.Item.1000039",
+      "icon_mastery_glue",
+      "Glue",
+      4
     ]
   ]
 }
