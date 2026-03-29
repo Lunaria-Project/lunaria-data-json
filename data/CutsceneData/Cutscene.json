@@ -4,7 +4,7 @@
     "Order": "int",
     "CutsceneCommand": "enum<CutsceneCommand>",
     "CutsceneMessage": "local_string;[CutsceneId][Order]",
-    "IntValues": "list<int>",
+    "IntValues": "list<int>;id",
     "StringValues": "list<string>",
     "Position": "vector2"
   },
@@ -23,7 +23,7 @@
       2,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.2",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -32,7 +32,7 @@
       3,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.3",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -41,7 +41,7 @@
       4,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.4",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -50,7 +50,7 @@
       5,
       "Selection",
       "",
-      "1000014,1000015",
+      "1000040.0",
       "default_cutscene_selection",
       ""
     ],
@@ -59,7 +59,7 @@
       6,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.6",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -68,7 +68,7 @@
       7,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.7",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -77,7 +77,7 @@
       8,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.8",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -86,7 +86,7 @@
       9,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.9",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -95,7 +95,7 @@
       10,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.10",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -104,7 +104,7 @@
       11,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.11",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -113,7 +113,7 @@
       12,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.12",
-      "1000011",
+      "1000011.0",
       "flipped",
       "430,0"
     ],
@@ -122,7 +122,7 @@
       13,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.13",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -131,7 +131,7 @@
       14,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.14",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -140,7 +140,7 @@
       15,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.15",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -149,7 +149,7 @@
       16,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.16",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -176,7 +176,7 @@
       19,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.19",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -185,7 +185,7 @@
       20,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.20",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -194,7 +194,7 @@
       21,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.21",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -203,7 +203,7 @@
       22,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.22",
-      "1000011",
+      "1000011.0",
       "flipped",
       "430,0"
     ],
@@ -212,7 +212,7 @@
       23,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.23",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -221,7 +221,7 @@
       24,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.24",
-      "1000012",
+      "1000012.0",
       "flipped",
       "-430,0"
     ],
@@ -230,7 +230,7 @@
       25,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.25",
-      "1000012",
+      "1000012.0",
       "flipped",
       "-430,0"
     ],
@@ -239,7 +239,7 @@
       26,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.26",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -248,7 +248,7 @@
       27,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.27",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -257,7 +257,7 @@
       28,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.28",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -266,7 +266,7 @@
       29,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.29",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -275,7 +275,7 @@
       30,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.30",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -284,7 +284,7 @@
       31,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.31",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -293,7 +293,7 @@
       32,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.32",
-      "1000012",
+      "1000012.0",
       "",
       "-430,0"
     ],
@@ -320,7 +320,7 @@
       35,
       "ShowDialog",
       "CutsceneData.Cutscene.1000013.35",
-      "1000011",
+      "1000011.0",
       "",
       "430,0"
     ],
@@ -329,7 +329,7 @@
       1,
       "ShowDialog",
       "CutsceneData.Cutscene.1000033.1",
-      "1000032",
+      "1000032.0",
       "",
       "430,0"
     ],
@@ -338,7 +338,7 @@
       1,
       "ShowDialog",
       "CutsceneData.Cutscene.1000034.1",
-      "1000012",
+      "1000012.0",
       "",
       "430,0"
     ],
@@ -347,7 +347,7 @@
       1,
       "ShowDialog",
       "CutsceneData.Cutscene.1000035.1",
-      "1000032",
+      "1000032.0",
       "",
       "430,0"
     ]
