@@ -230,6 +230,27 @@
       "PowderShop",
       "",
       ""
+    ],
+    [
+      "InventoryTabType",
+      1,
+      "Equipment",
+      "",
+      ""
+    ],
+    [
+      "InventoryTabType",
+      2,
+      "Material",
+      "",
+      ""
+    ],
+    [
+      "InventoryTabType",
+      3,
+      "Quest",
+      "",
+      ""
     ]
   ]
 }

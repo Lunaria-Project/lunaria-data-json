@@ -1,0 +1,16 @@
+{
+  "types": {
+    "ItemType": "enum<ItemType>;key",
+    "InventoryTabType": "enum<InventoryTabType>"
+  },
+  "rows": [
+    [
+      "Artifact",
+      "Equipment"
+    ],
+    [
+      "Glue",
+      "Material"
+    ]
+  ]
+}
