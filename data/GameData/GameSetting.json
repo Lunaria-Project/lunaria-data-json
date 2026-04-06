@@ -101,6 +101,18 @@
       "MaxInventorySlotCount",
       30.0,
       "인벤토리 슬롯 최대 개수"
+    ],
+    [
+      "int",
+      "InitialQuickSlotCount",
+      3.0,
+      "퀵슬롯 초기 언락 개수"
+    ],
+    [
+      "int",
+      "MaxQuickSlotCount",
+      5.0,
+      "퀵슬롯 최대 개수"
     ]
   ]
 }
