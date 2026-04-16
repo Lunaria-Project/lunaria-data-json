@@ -6,7 +6,7 @@
     "RandomMaxStockQuantity": "int",
     "MaxPurchasableQuantity": "int",
     "SaleRequirementType": "enum<RequirementType>",
-    "SaleRequirementValues": "list<int>d",
+    "SaleRequirementValues": "list<int>",
     "PriceItemId": "int;id",
     "PriceQuantity": "int"
   },
