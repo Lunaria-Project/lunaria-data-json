@@ -286,6 +286,20 @@
       "Quest",
       "",
       ""
+    ],
+    [
+      "MinigameType",
+      1,
+      "Slime",
+      "",
+      ""
+    ],
+    [
+      "MinigameType",
+      2,
+      "PowderPortal",
+      "",
+      ""
     ]
   ]
 }

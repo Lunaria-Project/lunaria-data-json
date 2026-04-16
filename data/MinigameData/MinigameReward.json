@@ -1,0 +1,40 @@
+{
+  "types": {
+    "MinigameType": "enum<MinigameType>",
+    "ScoreValue": "int",
+    "RewardIds": "List<int>;id",
+    "RewardQuantities": "List<int>"
+  },
+  "rows": [
+    [
+      "Slime",
+      1,
+      "1000036",
+      "1"
+    ],
+    [
+      "Slime",
+      41,
+      "1000037",
+      "1"
+    ],
+    [
+      "Slime",
+      76,
+      "1000038",
+      "1"
+    ],
+    [
+      "Slime",
+      99,
+      "1000039",
+      "1"
+    ],
+    [
+      "PowderPortal",
+      1,
+      "1000046",
+      "1"
+    ]
+  ]
+}

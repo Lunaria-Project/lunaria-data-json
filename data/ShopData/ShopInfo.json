@@ -3,26 +3,30 @@
     "ShopId": "int;key;id",
     "StartTime": "int",
     "EndTime": "int",
-    "ShopType": "enum<ShopType>"
+    "ShopType": "enum<ShopType>",
+    "MinigameType": "enum<MinigameType>"
   },
   "rows": [
     [
       1000024,
       800,
       1800,
-      "CottonCandyShop"
+      "CottonCandyShop",
+      "PowderPortal"
     ],
     [
       1000025,
       800,
       1800,
-      "PowderShop"
+      "PowderShop",
+      ""
     ],
     [
       1000026,
       800,
       1800,
-      "BeddingShop"
+      "BeddingShop",
+      ""
     ]
   ]
 }
