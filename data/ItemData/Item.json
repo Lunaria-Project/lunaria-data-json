@@ -5,6 +5,7 @@
     "Description": "local_string;[Id][Order]",
     "IconResourceKey": "string",
     "ItemType": "enum<ItemType>",
+    "ItemTag": "enum<ItemTag>",
     "Order": "int"
   },
   "rows": [
@@ -14,6 +15,7 @@
       "ItemData.Item.1000006.1",
       "icon_solari",
       "MainCoin",
+      "",
       1
     ],
     [
@@ -22,6 +24,7 @@
       "ItemData.Item.1000018.1",
       "artifact_stick",
       "Artifact",
+      "",
       1
     ],
     [
@@ -30,6 +33,7 @@
       "ItemData.Item.1000019.2",
       "artifact_powder",
       "Artifact",
+      "",
       2
     ],
     [
@@ -38,6 +42,7 @@
       "ItemData.Item.1000020.3",
       "artifact_bubblegun",
       "Artifact",
+      "",
       3
     ],
     [
@@ -46,6 +51,7 @@
       "ItemData.Item.1000021.4",
       "artifact_grinder",
       "Artifact",
+      "",
       4
     ],
     [
@@ -54,6 +60,7 @@
       "ItemData.Item.1000022.5",
       "artifact_pendant",
       "Artifact",
+      "",
       5
     ],
     [
@@ -62,6 +69,7 @@
       "ItemData.Item.1000036.1",
       "icon_basic_glue",
       "Glue",
+      "",
       1
     ],
     [
@@ -70,6 +78,7 @@
       "ItemData.Item.1000037.2",
       "icon_intermediate_glue",
       "Glue",
+      "",
       2
     ],
     [
@@ -78,6 +87,7 @@
       "ItemData.Item.1000038.3",
       "icon_advanced_glue",
       "Glue",
+      "",
       3
     ],
     [
@@ -86,7 +96,62 @@
       0,
       "icon_mastery_glue",
       "Glue",
+      "",
       4
+    ],
+    [
+      1000041,
+      "ItemData.Item.1000041",
+      "ItemData.Item.1000041.1",
+      "artifact_powder_skin01",
+      "ArtifactSkin",
+      "",
+      1
+    ],
+    [
+      1000042,
+      "ItemData.Item.1000042",
+      "ItemData.Item.1000042.2",
+      "artifact_powder_skin02",
+      "ArtifactSkin",
+      "",
+      2
+    ],
+    [
+      1000043,
+      "ItemData.Item.1000043",
+      "ItemData.Item.1000043.1",
+      "icon_player_recovery01",
+      "PlayerRecovery",
+      "",
+      1
+    ],
+    [
+      1000044,
+      "ItemData.Item.1000044",
+      "ItemData.Item.1000044.1",
+      "icon_familiar_recovery01",
+      "FamiliarRecovery",
+      "",
+      1
+    ],
+    [
+      1000045,
+      "ItemData.Item.1000045",
+      "ItemData.Item.1000045.1",
+      "icon_yellow_powder",
+      "ColoredPowder",
+      "",
+      1
+    ],
+    [
+      1000046,
+      "ItemData.Item.1000046",
+      "ItemData.Item.1000046.1",
+      "icon_powder",
+      "Powder",
+      "",
+      1
     ]
   ]
 }

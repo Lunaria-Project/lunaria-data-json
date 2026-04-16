@@ -127,6 +127,41 @@
       ""
     ],
     [
+      "ItemType",
+      4,
+      "ArtifactSkin",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      5,
+      "PlayerRecovery",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      6,
+      "FamiliarRecovery",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      7,
+      "ColoredPowder",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      8,
+      "Powder",
+      "",
+      ""
+    ],
+    [
       "ArtifactType",
       1,
       "Stick",
