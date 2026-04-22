@@ -11,6 +11,22 @@
     [
       "Glue",
       "Material"
+    ],
+    [
+      "PlayerRecovery",
+      "Equipment"
+    ],
+    [
+      "FamiliarRecovery",
+      "Equipment"
+    ],
+    [
+      "ColoredPowder",
+      "Material"
+    ],
+    [
+      "Powder",
+      "Material"
     ]
   ]
 }
