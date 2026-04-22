@@ -106,6 +106,13 @@
       ""
     ],
     [
+      "CutsceneCommand",
+      7,
+      "ShowShopPopup",
+      "",
+      ""
+    ],
+    [
       "ItemType",
       1,
       "MainCoin",
