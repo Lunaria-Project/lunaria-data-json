@@ -32,6 +32,17 @@
       0,
       "PlayCutscene",
       1000033
+    ],
+    [
+      1000078,
+      "MapNpcData.MapNpcMenu.1000078.1",
+      "AlwaysTrue",
+      "",
+      1,
+      1,
+      0,
+      "PlayCutscene",
+      1000080
     ]
   ]
 }

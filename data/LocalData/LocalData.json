@@ -14,6 +14,11 @@
     "en": "",
     "ja": ""
   },
+  "CharacterData.CharacterInfo.1000079": {
+    "ko": "미카",
+    "en": "",
+    "ja": ""
+  },
   "CutsceneData.Cutscene.1000013.1": {
     "ko": "똑똑, 똑똑!",
     "en": "",
@@ -176,6 +181,11 @@
   },
   "CutsceneData.Cutscene.1000035.1": {
     "ko": "아티팩트가 없다!",
+    "en": "",
+    "ja": ""
+  },
+  "CutsceneData.Cutscene.1000080.1": {
+    "ko": "뭘 살거임??",
     "en": "",
     "ja": ""
   },
@@ -550,6 +560,11 @@
     "ja": ""
   },
   "MapNpcData.MapNpcMenu.1000030.1": {
+    "ko": "말걸기",
+    "en": "",
+    "ja": ""
+  },
+  "MapNpcData.MapNpcMenu.1000078.1": {
     "ko": "말걸기",
     "en": "",
     "ja": ""
