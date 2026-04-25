@@ -244,6 +244,41 @@
       "",
       "",
       1.0
+    ],
+    [
+      "ShopPopup.PurchaseButton",
+      "구매하기",
+      "",
+      "",
+      ""
+    ],
+    [
+      "InventoryPopup.Filter.All",
+      "전체",
+      "",
+      "",
+      ""
+    ],
+    [
+      "InventoryPopup.Filter.Artifact",
+      "장비",
+      "",
+      "",
+      ""
+    ],
+    [
+      "InventoryPopup.Filter.Material",
+      "재료",
+      "",
+      "",
+      ""
+    ],
+    [
+      "InventoryPopup.Filter.Quest",
+      "퀘스트",
+      "",
+      "",
+      ""
     ]
   ]
 }
