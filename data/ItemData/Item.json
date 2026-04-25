@@ -57,11 +57,35 @@
       5
     ],
     [
+      1000041,
+      "ItemData.Item.1000041",
+      "ItemData.Item.1000041.6",
+      "artifact_powder_skin01",
+      "Artifact",
+      6
+    ],
+    [
+      1000042,
+      "ItemData.Item.1000042",
+      "ItemData.Item.1000042.7",
+      "artifact_powder_skin02",
+      "Artifact",
+      7
+    ],
+    [
+      1000057,
+      "ItemData.Item.1000057",
+      "",
+      "artifact_stick_skin02",
+      "Artifact",
+      8
+    ],
+    [
       1000036,
       "ItemData.Item.1000036",
       "ItemData.Item.1000036.1",
       "icon_basic_glue",
-      "Glue",
+      "Meterial",
       1
     ],
     [
@@ -69,7 +93,7 @@
       "ItemData.Item.1000037",
       "ItemData.Item.1000037.2",
       "icon_intermediate_glue",
-      "Glue",
+      "Meterial",
       2
     ],
     [
@@ -77,7 +101,7 @@
       "ItemData.Item.1000038",
       "ItemData.Item.1000038.3",
       "icon_advanced_glue",
-      "Glue",
+      "Meterial",
       3
     ],
     [
@@ -85,31 +109,47 @@
       "ItemData.Item.1000039",
       0,
       "icon_mastery_glue",
-      "Glue",
+      "Meterial",
       4
     ],
     [
-      1000041,
-      "ItemData.Item.1000041",
-      "ItemData.Item.1000041.1",
-      "artifact_powder_skin01",
-      "ArtifactSkin",
-      1
+      1000058,
+      "ItemData.Item.1000058",
+      "ItemData.Item.1000058.5",
+      "icon_aurora_parfait",
+      "Meterial",
+      5
     ],
     [
-      1000042,
-      "ItemData.Item.1000042",
-      "ItemData.Item.1000042.2",
-      "artifact_powder_skin02",
-      "ArtifactSkin",
-      2
+      1000059,
+      "ItemData.Item.1000059",
+      "ItemData.Item.1000059.6",
+      "icon_photo_card_mika",
+      "Meterial",
+      6
+    ],
+    [
+      1000060,
+      "ItemData.Item.1000060",
+      "ItemData.Item.1000060.7",
+      "icon_powder_castle",
+      "Meterial",
+      7
+    ],
+    [
+      1000046,
+      "ItemData.Item.1000046",
+      "ItemData.Item.1000046.8",
+      "icon_powder",
+      "Meterial",
+      8
     ],
     [
       1000043,
       "ItemData.Item.1000043",
       "ItemData.Item.1000043.1",
       "icon_player_recovery01",
-      "PlayerRecovery",
+      "PlayerHpRecovery",
       1
     ],
     [
@@ -117,7 +157,31 @@
       "ItemData.Item.1000044",
       "ItemData.Item.1000044.1",
       "icon_familiar_recovery01",
-      "FamiliarRecovery",
+      "FamiliarHpRecovery",
+      1
+    ],
+    [
+      1000061,
+      "ItemData.Item.1000061",
+      "ItemData.Item.1000061.2",
+      "icon_familiar_recovery02",
+      "FamiliarHpRecovery",
+      2
+    ],
+    [
+      1000062,
+      "ItemData.Item.1000062",
+      "ItemData.Item.1000062.3",
+      "icon_familiar_recovery03",
+      "FamiliarHpRecovery",
+      3
+    ],
+    [
+      1000063,
+      "ItemData.Item.1000063",
+      "ItemData.Item.1000063.1",
+      "icon_familiar_tired_recovery01",
+      "FamiliarTiredRecovery",
       1
     ],
     [
@@ -125,15 +189,55 @@
       "ItemData.Item.1000045",
       "ItemData.Item.1000045.1",
       "icon_yellow_powder",
-      "ColoredPowder",
+      "RefinedMaterial",
       1
     ],
     [
-      1000046,
-      "ItemData.Item.1000046",
-      "ItemData.Item.1000046.1",
-      "icon_powder",
-      "Powder",
+      1000064,
+      "ItemData.Item.1000064",
+      "ItemData.Item.1000064.2",
+      "icon_cotton_powder",
+      "RefinedMaterial",
+      2
+    ],
+    [
+      1000065,
+      "ItemData.Item.1000065",
+      "ItemData.Item.1000065.3",
+      "icon_cotton_seed",
+      "RefinedMaterial",
+      3
+    ],
+    [
+      1000066,
+      "ItemData.Item.1000066",
+      "ItemData.Item.1000066.4",
+      "icon_sugar_crystal",
+      "RefinedMaterial",
+      4
+    ],
+    [
+      1000067,
+      "ItemData.Item.1000067",
+      "ItemData.Item.1000067.1",
+      "icon_ride_cottom_candy",
+      "Ride",
+      1
+    ],
+    [
+      1000068,
+      "ItemData.Item.1000068",
+      "ItemData.Item.1000068.1",
+      "icon_familiar_call01",
+      "FamiliarCall",
+      1
+    ],
+    [
+      1000069,
+      "ItemData.Item.1000069",
+      "ItemData.Item.1000069.1",
+      "icon_cotton_bottle",
+      "Quest",
       1
     ]
   ]

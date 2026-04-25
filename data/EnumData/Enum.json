@@ -129,42 +129,63 @@
     [
       "ItemType",
       3,
-      "Glue",
+      "PlayerHpRecovery",
       "",
       ""
     ],
     [
       "ItemType",
       4,
-      "ArtifactSkin",
+      "FamiliarHpRecovery",
       "",
       ""
     ],
     [
       "ItemType",
       5,
-      "PlayerRecovery",
+      "FamiliarTiredRecovery",
       "",
       ""
     ],
     [
       "ItemType",
       6,
-      "FamiliarRecovery",
+      "RefinedMaterial",
       "",
       ""
     ],
     [
       "ItemType",
       7,
-      "ColoredPowder",
+      "Material",
       "",
       ""
     ],
     [
       "ItemType",
       8,
-      "Powder",
+      "Quest",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      9,
+      "Ride",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      10,
+      "FamiliarCall",
+      "",
+      ""
+    ],
+    [
+      "ItemType",
+      11,
+      "FamiliarTiredRecovery",
       "",
       ""
     ],

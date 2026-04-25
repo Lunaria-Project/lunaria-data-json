@@ -9,23 +9,39 @@
       "Equipment"
     ],
     [
-      "Glue",
+      "PlayerHpRecovery",
       "Material"
     ],
     [
-      "PlayerRecovery",
-      "Equipment"
-    ],
-    [
-      "FamiliarRecovery",
-      "Equipment"
-    ],
-    [
-      "ColoredPowder",
+      "FamiliarHpRecovery",
       "Material"
     ],
     [
-      "Powder",
+      "FamiliarTiredRecovery",
+      "Material"
+    ],
+    [
+      "RefinedMaterial",
+      "Material"
+    ],
+    [
+      "Material",
+      "Material"
+    ],
+    [
+      "Quest",
+      "Quest"
+    ],
+    [
+      "Ride",
+      "Material"
+    ],
+    [
+      "FamiliarCall",
+      "Material"
+    ],
+    [
+      "FamiliarTiredRecovery",
       "Material"
     ]
   ]
