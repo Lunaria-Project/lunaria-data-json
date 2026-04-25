@@ -189,6 +189,56 @@
     "en": "",
     "ja": ""
   },
+  "EnumData.Enum.ItemType.1": {
+    "ko": "솔라 화폐",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.2": {
+    "ko": "마도구",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.3": {
+    "ko": "회복약",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.4": {
+    "ko": "사역마 회복약",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.5": {
+    "ko": "사역마 지침 회복약",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.6": {
+    "ko": "정제된 재료",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.7": {
+    "ko": "재료",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.8": {
+    "ko": "퀘스트",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.9": {
+    "ko": "탈 것",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ItemType.10": {
+    "ko": "사역마 소환",
+    "en": "",
+    "ja": ""
+  },
   "ItemData.Item.1000006": {
     "ko": "솔라리",
     "en": "",

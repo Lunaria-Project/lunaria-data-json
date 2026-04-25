@@ -3,7 +3,7 @@
     "EnumName": null,
     "Order": null,
     "Value": null,
-    "DisplayName": "string",
+    "DisplayName": "local_string;[EnumName][Order]",
     "ResourceKey": "string"
   },
   "rows": [
@@ -116,77 +116,70 @@
       "ItemType",
       1,
       "MainCoin",
-      "",
+      "EnumData.Enum.ItemType.1",
       ""
     ],
     [
       "ItemType",
       2,
       "Artifact",
-      "",
+      "EnumData.Enum.ItemType.2",
       ""
     ],
     [
       "ItemType",
       3,
       "PlayerHpRecovery",
-      "",
+      "EnumData.Enum.ItemType.3",
       ""
     ],
     [
       "ItemType",
       4,
       "FamiliarHpRecovery",
-      "",
+      "EnumData.Enum.ItemType.4",
       ""
     ],
     [
       "ItemType",
       5,
       "FamiliarTiredRecovery",
-      "",
+      "EnumData.Enum.ItemType.5",
       ""
     ],
     [
       "ItemType",
       6,
       "RefinedMaterial",
-      "",
+      "EnumData.Enum.ItemType.6",
       ""
     ],
     [
       "ItemType",
       7,
       "Material",
-      "",
+      "EnumData.Enum.ItemType.7",
       ""
     ],
     [
       "ItemType",
       8,
       "Quest",
-      "",
+      "EnumData.Enum.ItemType.8",
       ""
     ],
     [
       "ItemType",
       9,
       "Ride",
-      "",
+      "EnumData.Enum.ItemType.9",
       ""
     ],
     [
       "ItemType",
       10,
       "FamiliarCall",
-      "",
-      ""
-    ],
-    [
-      "ItemType",
-      11,
-      "FamiliarTiredRecovery",
-      "",
+      "EnumData.Enum.ItemType.10",
       ""
     ],
     [
