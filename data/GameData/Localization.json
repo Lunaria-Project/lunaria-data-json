@@ -253,6 +253,27 @@
       ""
     ],
     [
+      "ShopPopup.PurchasedAllTodayGuide",
+      "오늘 구매 가능한 양 모두 구매했다는 내용",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "ShopPopup.PurchasedAllGuide",
+      "이 상품은 총 구매 가능한 양이 정해져 있고, 이미 모두 구매했다는 내용",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "ShopPopup.InsufficientPriceItem",
+      "보유한 재화가 부족하다는 내용",
+      "",
+      "",
+      1.0
+    ],
+    [
       "InventoryPopup.Filter.All",
       "전체",
       "",
