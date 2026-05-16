@@ -92,6 +92,12 @@
     ],
     [
       "int",
+      "CottonCandyMinigameArtifactCutsceneId",
+      1000082.0,
+      "미니게임 아티팩트가 없어서 시작 못할 때 나오는 컷신 아이디"
+    ],
+    [
+      "int",
       "InitialInventoryUnlockedSlotCount",
       15.0,
       "인벤토리 슬롯 초기 언락 개수"
