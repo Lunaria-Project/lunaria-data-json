@@ -19,6 +19,16 @@
       1,
       "PlayPowderPortalMinigame",
       0
+    ],
+    [
+      1000081,
+      "MapNpcData.MapStaticNpcMenu.1000081.1",
+      "AlwaysTrue",
+      "",
+      1,
+      1,
+      "PlayCottonCandyMinigame",
+      0
     ]
   ]
 }

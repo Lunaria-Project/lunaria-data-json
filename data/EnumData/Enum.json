@@ -64,6 +64,13 @@
       ""
     ],
     [
+      "NpcMenuFunctionType",
+      5,
+      "PlayCottonCandyMinigame",
+      "",
+      ""
+    ],
+    [
       "CutsceneCommand",
       1,
       "ShowDialog",
