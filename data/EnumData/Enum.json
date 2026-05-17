@@ -193,35 +193,35 @@
       "ArtifactType",
       1,
       "Stick",
-      "",
+      "EnumData.Enum.ArtifactType.1",
       ""
     ],
     [
       "ArtifactType",
       2,
       "Powder",
-      "",
+      "EnumData.Enum.ArtifactType.2",
       ""
     ],
     [
       "ArtifactType",
       3,
       "Bubblegun",
-      "",
+      "EnumData.Enum.ArtifactType.3",
       ""
     ],
     [
       "ArtifactType",
       4,
       "Grinder",
-      "",
+      "EnumData.Enum.ArtifactType.4",
       ""
     ],
     [
       "ArtifactType",
       5,
       "Pendant",
-      "",
+      "EnumData.Enum.ArtifactType.5",
       ""
     ],
     [

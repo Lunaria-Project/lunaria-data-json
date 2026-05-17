@@ -254,6 +254,31 @@
     "en": "",
     "ja": ""
   },
+  "EnumData.Enum.ArtifactType.1": {
+    "ko": "스틱",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ArtifactType.2": {
+    "ko": "파우더",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ArtifactType.3": {
+    "ko": "버블건",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ArtifactType.4": {
+    "ko": "그라인더",
+    "en": "",
+    "ja": ""
+  },
+  "EnumData.Enum.ArtifactType.5": {
+    "ko": "펜던트",
+    "en": "",
+    "ja": ""
+  },
   "ItemData.Item.1000006": {
     "ko": "솔라리",
     "en": "",
