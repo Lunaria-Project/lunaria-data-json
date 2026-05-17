@@ -2,23 +2,27 @@
   "types": {
     "MinigameType": "enum<MinigameType>;key",
     "DurationHours": "int",
-    "MinigameSeconds": "int"
+    "MinigameSeconds": "int",
+    "EquippedArtifactType": "enum<ArtifactType>"
   },
   "rows": [
     [
       "Slime",
       2,
-      60
+      60,
+      "Bubblegun"
     ],
     [
       "PowderPortal",
       2,
-      60
+      60,
+      "Powder"
     ],
     [
       "CottonCandy",
       2,
-      60
+      60,
+      "Stick"
     ]
   ]
 }
