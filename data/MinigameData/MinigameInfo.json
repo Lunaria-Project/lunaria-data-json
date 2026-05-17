@@ -1,20 +1,24 @@
 {
   "types": {
     "MinigameType": "enum<MinigameType>;key",
-    "DurationHours": "int"
+    "DurationHours": "int",
+    "MinigameSeconds": "int"
   },
   "rows": [
     [
       "Slime",
-      2
+      2,
+      60
     ],
     [
       "PowderPortal",
-      2
+      2,
+      60
     ],
     [
       "CottonCandy",
-      2
+      2,
+      60
     ]
   ]
 }
