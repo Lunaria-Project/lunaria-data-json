@@ -113,11 +113,18 @@
       ""
     ],
     [
-      "SlimeMinigameResultPopup.Title",
+      "SlimeMinigameResultPopup.NoRewardTitle",
       "캐치캐치 슬라임 박멸완료!",
       "",
       "",
-      ""
+      1.0
+    ],
+    [
+      "SlimeMinigameResultPopup.Title",
+      "슬라임 보호 협회 회장님",
+      "",
+      "",
+      1.0
     ],
     [
       "SlimeMinigameResultPopup.Description",
