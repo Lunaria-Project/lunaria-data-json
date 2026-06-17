@@ -134,6 +134,13 @@
       1.0
     ],
     [
+      "SlimeMinigameResultPopup.NoRewardDescription",
+      "접착제 생산에 실패했습니다! 슬라임이 너무 귀여웠나요?",
+      "",
+      "",
+      ""
+    ],
+    [
       "PowderMinigameInfoPopup.TimeGuide",
       "1분이 끝나면 종료!",
       "",
@@ -194,14 +201,28 @@
       "아르바이트 완료!",
       "",
       "",
-      ""
+      1.0
+    ],
+    [
+      "MinigameResultPopup.NoRewardTitle",
+      "아르바이트 완료?",
+      "",
+      "",
+      1.0
     ],
     [
       "PowderMinigameResultPopup.Description",
       "보답으로 파우더 가루를 받았습니다",
       "",
       "",
-      ""
+      1.0
+    ],
+    [
+      "PowderMinigameResultPopup.NoRewardDescription",
+      "보답 받은 것이 없습니다.",
+      "",
+      "",
+      1.0
     ],
     [
       "MinigameResultPopup.RestartButton",
