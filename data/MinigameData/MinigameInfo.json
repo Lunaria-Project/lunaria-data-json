@@ -3,26 +3,34 @@
     "MinigameType": "enum<MinigameType>;key",
     "DurationHours": "int",
     "MinigameSeconds": "int",
-    "EquippedArtifactType": "enum<ArtifactType>"
+    "EquippedArtifactType": "enum<ArtifactType>",
+    "Title": "string",
+    "Description": "string"
   },
   "rows": [
     [
       "Slime",
       2,
       60,
-      "Bubblegun"
+      "Bubblegun",
+      "캐치캐치 슬라임!!",
+      "방을 너무 오래 비워두었나? 끈적끈적한 슬라임들이 등장해서 방을\\n어지럽히기 시작했어! 하지만 걱정마 버블건과 함께라면 한방에 슥삭!\\n이 버릇없는 젤리들에게 건법으로 예의를 가르쳐주자!"
     ],
     [
       "PowderPortal",
       2,
       60,
-      "Powder"
+      "Powder",
+      "나 대신 포탈로 전송 부탁해!",
+      "파우더는 습기에 약해서 수분관리를 수분관리를 해줘야 하거든\\n준비가 된 사역마들은 천계나 마계 포탈로 슝! 알지?\\n아직 준비가 안 된 애들이 보이면 파우더룸으로 다시 보내줘! "
     ],
     [
       "CottonCandy",
       2,
       60,
-      "Stick"
+      "Stick",
+      "솜사탕",
+      "솜사탕 미니게임 설명 (MinigameData)"
     ]
   ]
 }
