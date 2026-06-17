@@ -208,7 +208,14 @@
       "보상 수령",
       "",
       "",
-      ""
+      1.0
+    ],
+    [
+      "MinigameResultPopup.NoRewardButton",
+      "확인",
+      "",
+      "",
+      1.0
     ],
     [
       "NpcSelectionPopup.ExitButton",
