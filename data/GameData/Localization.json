@@ -342,6 +342,27 @@
       "",
       "",
       1.0
+    ],
+    [
+      "CottonCandyMinigameResultPopup.NoRewardNpc",
+      "내 업장을 망치지마",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CottonCandyMinigameResultPopup.NoRewardDescription",
+      "보답으로 받은 것이 없습니다.",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CottonCandyMinigameResultPopup.Description",
+      "보답으로 꿈뭉치를 받았습니다",
+      "",
+      "",
+      ""
     ]
   ]
 }
