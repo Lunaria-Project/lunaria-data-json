@@ -363,6 +363,27 @@
       "",
       "",
       1.0
+    ],
+    [
+      "CottonCandyMinigame.Step1",
+      "색상을 선택해주세요.",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "CottonCandyMinigame.Step2",
+      "모양을 선택해주세요.",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "CottonCandyMinigame.SpaceBar",
+      "SpaceBar",
+      "",
+      "",
+      ""
     ]
   ]
 }
