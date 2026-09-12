@@ -1,40 +1,49 @@
 {
   "types": {
     "Id": "int;key;id",
-    "ArtifactType": "enum<ArtifactType>"
+    "ArtifactType": "enum<ArtifactType>",
+    "ResourceKey": "string"
   },
   "rows": [
     [
       1000018,
-      "Stick"
+      "Stick",
+      "stick01"
     ],
     [
       1000019,
-      "Powder"
+      "Powder",
+      "stick02"
     ],
     [
       1000020,
-      "Bubblegun"
+      "Bubblegun",
+      "stick03"
     ],
     [
       1000021,
-      "Grinder"
+      "Grinder",
+      ""
     ],
     [
       1000022,
-      "Pendant"
+      "Pendant",
+      ""
     ],
     [
       1000041,
-      "Powder"
+      "Powder",
+      ""
     ],
     [
       1000042,
-      "Powder"
+      "Powder",
+      ""
     ],
     [
       1000057,
-      "Stick"
+      "Stick",
+      ""
     ]
   ]
 }
