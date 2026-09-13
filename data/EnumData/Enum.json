@@ -190,6 +190,13 @@
       ""
     ],
     [
+      "ItemType",
+      11,
+      "ArtifactRateUp",
+      "EnumData.Enum.ItemType.11",
+      ""
+    ],
+    [
       "ArtifactType",
       1,
       "Stick",

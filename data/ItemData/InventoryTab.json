@@ -39,6 +39,10 @@
     [
       "FamiliarCall",
       "Material"
+    ],
+    [
+      "ArtfactRateUp",
+      "Material"
     ]
   ]
 }

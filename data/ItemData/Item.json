@@ -153,12 +153,132 @@
       9
     ],
     [
+      1000085,
+      "ItemData.Item.1000085",
+      "ItemData.Item.1000085.10",
+      "icon_yarn_ball_skyblue",
+      "Material",
+      10
+    ],
+    [
+      1000086,
+      "ItemData.Item.1000086",
+      "ItemData.Item.1000086.11",
+      "icon_yarn_ball_blue",
+      "Material",
+      11
+    ],
+    [
+      1000087,
+      "ItemData.Item.1000087",
+      "ItemData.Item.1000087.12",
+      "icon_yarn_ball_green",
+      "Material",
+      12
+    ],
+    [
+      1000088,
+      "ItemData.Item.1000088",
+      "ItemData.Item.1000088.13",
+      "icon_yarn_ball_yellow",
+      "Material",
+      13
+    ],
+    [
+      1000089,
+      "ItemData.Item.1000089",
+      "ItemData.Item.1000089.14",
+      "icon_yarn_ball_orange",
+      "Material",
+      14
+    ],
+    [
+      1000090,
+      "ItemData.Item.1000090",
+      "ItemData.Item.1000090.15",
+      "icon_yarn_ball_pink",
+      "Material",
+      15
+    ],
+    [
+      1000091,
+      "ItemData.Item.1000091",
+      "ItemData.Item.1000091.16",
+      "icon_yarn_ball_purple",
+      "Material",
+      16
+    ],
+    [
+      1000092,
+      "ItemData.Item.1000092",
+      "ItemData.Item.1000092.17",
+      "icon_yarn_ball_rainbow",
+      "Material",
+      17
+    ],
+    [
+      1000093,
+      "ItemData.Item.1000093",
+      "ItemData.Item.1000093.18",
+      "icon_four_seasons_constellation_blanket",
+      "Material",
+      18
+    ],
+    [
+      1000094,
+      "ItemData.Item.1000094",
+      "ItemData.Item.1000094.19",
+      "icon_moonlight_in_heaven_blanket",
+      "Material",
+      19
+    ],
+    [
+      1000095,
+      "ItemData.Item.1000095",
+      "ItemData.Item.1000095.20",
+      "icon_money_catcher_quilted_blanket",
+      "Material",
+      20
+    ],
+    [
+      1000096,
+      "ItemData.Item.1000096",
+      "ItemData.Item.1000096.21",
+      "icon_normandy_goose_feather",
+      "Material",
+      21
+    ],
+    [
+      1000097,
+      "ItemData.Item.1000097",
+      "ItemData.Item.1000097.22",
+      "icon_pekin_duck_feather",
+      "Material",
+      22
+    ],
+    [
       1000043,
       "ItemData.Item.1000043",
       "ItemData.Item.1000043.1",
       "icon_player_recovery01",
       "PlayerHpRecovery",
       1
+    ],
+    [
+      1000098,
+      "ItemData.Item.1000098",
+      "ItemData.Item.1000098.2",
+      "icon_lavender_moon_pillow",
+      "PlayerHpRecovery",
+      2
+    ],
+    [
+      1000099,
+      "ItemData.Item.1000099",
+      "ItemData.Item.1000099.3",
+      "icon_normandy_body_pillow",
+      "PlayerHpRecovery",
+      3
     ],
     [
       1000044,
@@ -247,6 +367,22 @@
       "icon_cotton_bottle",
       "Quest",
       1
+    ],
+    [
+      1000100,
+      "ItemData.Item.1000100",
+      "ItemData.Item.1000100.1",
+      "icon_goodnight_eye_mask",
+      "ArtfactRateUp",
+      1
+    ],
+    [
+      1000101,
+      "ItemData.Item.1000101",
+      "ItemData.Item.1000101.2",
+      "icon_cozy_sleep_socks",
+      "ArtfactRateUp",
+      2
     ]
   ]
 }
