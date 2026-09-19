@@ -1,0 +1,32 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "FamiliarId": "int;id",
+    "ResourceKey": "string",
+    "Name": "local_string;[Id]",
+    "hp": "int"
+  },
+  "rows": [
+    [
+      1000102,
+      1000105,
+      "familiar01",
+      "ItemData.FamiliarCall.1000102",
+      100
+    ],
+    [
+      1000103,
+      1000106,
+      "familiar02",
+      "ItemData.FamiliarCall.1000103",
+      100
+    ],
+    [
+      1000104,
+      1000107,
+      "familiar03",
+      "ItemData.FamiliarCall.1000104",
+      100
+    ]
+  ]
+}

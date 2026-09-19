@@ -353,12 +353,28 @@
       1
     ],
     [
-      1000068,
-      "ItemData.Item.1000068",
-      "ItemData.Item.1000068.1",
+      1000102,
+      "ItemData.Item.1000102",
+      "ItemData.Item.1000102.1",
       "icon_familiar_call01",
       "FamiliarCall",
       1
+    ],
+    [
+      1000103,
+      "ItemData.Item.1000103",
+      "ItemData.Item.1000103.2",
+      "icon_familiar_call01",
+      "FamiliarCall",
+      2
+    ],
+    [
+      1000104,
+      "ItemData.Item.1000104",
+      "ItemData.Item.1000104.3",
+      "icon_familiar_call01",
+      "FamiliarCall",
+      3
     ],
     [
       1000069,
