@@ -384,6 +384,20 @@
       "",
       "",
       ""
+    ],
+    [
+      "Familiar.ExcessCountWarning",
+      "사역마를 더 이상 소환할 수 없습니다.",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "Familiar.DuplicationWarning",
+      "해당 사역마를 이미 지니고 있습니다.",
+      "",
+      "",
+      ""
     ]
   ]
 }
