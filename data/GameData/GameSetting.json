@@ -119,6 +119,12 @@
       "MaxQuickSlotCount",
       5.0,
       "퀵슬롯 최대 개수"
+    ],
+    [
+      "int",
+      "MaxFamiliarSlotCount",
+      3.0,
+      "사역마 보유 가능 개수"
     ]
   ]
 }
