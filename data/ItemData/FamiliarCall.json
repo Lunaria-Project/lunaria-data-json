@@ -4,7 +4,7 @@
     "FamiliarId": "int;id",
     "ResourceKey": "string",
     "Name": "local_string;[Id]",
-    "hp": "int"
+    "MaxHp": "int"
   },
   "rows": [
     [
