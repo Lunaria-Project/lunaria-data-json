@@ -123,8 +123,14 @@
     [
       "int",
       "MaxFamiliarSlotCount",
+      4.0,
+      "최대 사역마 해금 가능 개수"
+    ],
+    [
+      "int",
+      "StartFamiliarSlotCount",
       3.0,
-      "사역마 보유 가능 개수"
+      "기본 사역마 보유 가능 개수"
     ]
   ]
 }
