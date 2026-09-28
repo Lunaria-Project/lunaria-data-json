@@ -137,6 +137,18 @@
       "FamiliarWorkingHours",
       4.0,
       "사역마 아르바이트 소요 시간"
+    ],
+    [
+      "int",
+      "FamiliarSummonedStartHp",
+      5.0,
+      "사역마를 소환하는데 소요하는 hp"
+    ],
+    [
+      "int ",
+      "FamiliarSummonedConsumingHpPerHour",
+      10.0,
+      "시간당 사역마 소환 소요 hp"
     ]
   ]
 }
