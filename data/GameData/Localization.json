@@ -274,6 +274,13 @@
       1.0
     ],
     [
+      "CancleButton",
+      "취소",
+      "",
+      "",
+      1.0
+    ],
+    [
       "ShopPopup.PurchaseButton",
       "구매하기",
       "",
