@@ -149,6 +149,12 @@
       "FamiliarSummonedConsumingHpPerHour",
       10.0,
       "시간당 사역마 소환 소요 hp"
+    ],
+    [
+      "int",
+      "FamiliarAutoRecoveryHpPerHour",
+      10.0,
+      "시간당 사역마 회복 hp"
     ]
   ]
 }
