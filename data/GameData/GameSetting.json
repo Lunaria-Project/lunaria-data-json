@@ -131,6 +131,12 @@
       "StartFamiliarSlotCount",
       3.0,
       "기본 사역마 보유 가능 개수"
+    ],
+    [
+      "int",
+      "FamiliarWorkingHours",
+      4.0,
+      "사역마 아르바이트 소요 시간"
     ]
   ]
 }
