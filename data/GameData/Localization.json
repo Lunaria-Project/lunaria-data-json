@@ -421,8 +421,15 @@
       1.0
     ],
     [
-      "Familiar.SetWaitingState",
+      "Familiar.SetIdleState",
       "{0}을/를 바구니로 보낼까요?",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "Familiar.SetSummonedState",
+      "{0}와/과 동행하시겠습니까?",
       "",
       "",
       1.0
