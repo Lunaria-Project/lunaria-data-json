@@ -4,7 +4,8 @@
     "FamiliarId": "int;id",
     "ResourceKey": "string",
     "Name": "local_string;[Id]",
-    "MaxHp": "int"
+    "MaxHp": "int",
+    "IsTemporary": "bool"
   },
   "rows": [
     [
@@ -12,21 +13,24 @@
       1000105,
       "familiar01",
       "ItemData.FamiliarCall.1000102",
-      100
+      100,
+      1
     ],
     [
       1000103,
       1000106,
       "familiar02",
       "ItemData.FamiliarCall.1000103",
-      100
+      100,
+      1
     ],
     [
       1000104,
       1000107,
       "familiar03",
       "ItemData.FamiliarCall.1000104",
-      100
+      100,
+      1
     ]
   ]
 }
