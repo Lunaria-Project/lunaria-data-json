@@ -145,7 +145,7 @@
       "사역마를 소환하는데 소요하는 hp"
     ],
     [
-      "int ",
+      "int",
       "FamiliarSummonedConsumingHpPerHour",
       10.0,
       "시간당 사역마 소환 소요 hp"
