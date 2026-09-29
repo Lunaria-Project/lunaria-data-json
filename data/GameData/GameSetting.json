@@ -155,6 +155,12 @@
       "FamiliarAutoRecoveryHpPerHour",
       10.0,
       "시간당 사역마 회복 hp"
+    ],
+    [
+      "int",
+      "FamiliarNoEnergyRecoveryHpHour",
+      5.0,
+      "에너지가 없어 잠들었을 때 사역마 hp 50% 회복에 걸리는 시간"
     ]
   ]
 }
