@@ -454,6 +454,20 @@
       "",
       "",
       1.0
+    ],
+    [
+      "FamiliarSelectPopup.NotSelectMessage",
+      "사역마를 선택해주세요.",
+      "",
+      "",
+      1.0
+    ],
+    [
+      "FamiliarSelectPopup.WorkingTimeMessage",
+      "지금 보내면 {0} 시간 후에 복귀해요.",
+      "",
+      "",
+      1.0
     ]
   ]
 }
