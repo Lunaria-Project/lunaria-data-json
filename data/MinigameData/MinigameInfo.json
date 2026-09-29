@@ -2,6 +2,7 @@
   "types": {
     "MinigameType": "enum<MinigameType>;key",
     "DurationHours": "int",
+    "FamiliarDurationHours": "int",
     "MinigameSeconds": "int",
     "EquippedArtifactType": "enum<ArtifactType>",
     "Title": "string",
@@ -11,6 +12,7 @@
     [
       "Slime",
       2,
+      0,
       60,
       "Bubblegun",
       "캐치캐치 슬라임!!",
@@ -19,6 +21,7 @@
     [
       "PowderPortal",
       2,
+      3,
       60,
       "Powder",
       "나 대신 포탈로 전송 부탁해!",
@@ -27,6 +30,7 @@
     [
       "CottonCandy",
       2,
+      3,
       60,
       "Stick",
       "솜사탕",
