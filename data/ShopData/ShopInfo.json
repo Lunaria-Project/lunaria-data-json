@@ -4,7 +4,8 @@
     "StartTime": "int",
     "EndTime": "int",
     "ShopType": "enum<ShopType>",
-    "MinigameType": "enum<MinigameType>"
+    "MinigameType": "enum<MinigameType>",
+    "IconResourceKey": "string"
   },
   "rows": [
     [
@@ -12,21 +13,24 @@
       800,
       1800,
       "CottonCandyShop",
-      "PowderPortal"
+      "CottonCandy",
+      "img_shopping_square_shop1"
     ],
     [
       1000025,
       800,
       1800,
       "PowderShop",
-      ""
+      "PowderPortal",
+      "img_shopping_square_shop3"
     ],
     [
       1000026,
       800,
       1800,
       "BeddingShop",
-      ""
+      "",
+      "img_shopping_square_shop2"
     ]
   ]
 }
