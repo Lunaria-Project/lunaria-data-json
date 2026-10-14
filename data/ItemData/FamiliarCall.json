@@ -1,7 +1,7 @@
 {
   "types": {
-    "Id": "int;key;id",
-    "FamiliarId": "int;id",
+    "Id": "int;id",
+    "FamiliarId": "int;key;id",
     "ResourceKey": "string",
     "Name": "local_string;[Id]",
     "MaxHp": "int",
@@ -9,28 +9,52 @@
   },
   "rows": [
     [
-      1000102,
+      1000068,
       1000105,
       "familiar01",
-      "ItemData.FamiliarCall.1000102",
+      "ItemData.FamiliarCall.1000068",
       100,
       1
     ],
     [
-      1000103,
+      1000068,
       1000106,
       "familiar02",
-      "ItemData.FamiliarCall.1000103",
+      "ItemData.FamiliarCall.1000068",
       100,
       1
     ],
     [
-      1000104,
+      1000068,
       1000107,
       "familiar03",
-      "ItemData.FamiliarCall.1000104",
+      "ItemData.FamiliarCall.1000068",
       100,
       1
+    ],
+    [
+      1000108,
+      1000111,
+      "familiar04",
+      "ItemData.FamiliarCall.1000108",
+      100,
+      0
+    ],
+    [
+      1000109,
+      1000112,
+      "familiar05",
+      "ItemData.FamiliarCall.1000109",
+      100,
+      0
+    ],
+    [
+      1000110,
+      1000113,
+      "familiar06",
+      "ItemData.FamiliarCall.1000110",
+      100,
+      0
     ]
   ]
 }

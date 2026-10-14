@@ -353,28 +353,36 @@
       1
     ],
     [
-      1000102,
-      "ItemData.Item.1000102",
-      "ItemData.Item.1000102.1",
+      1000068,
+      "ItemData.Item.1000068",
+      "ItemData.Item.1000068.1",
       "icon_familiar_call01",
       "FamiliarCall",
       1
     ],
     [
-      1000103,
-      "ItemData.Item.1000103",
-      "ItemData.Item.1000103.2",
-      "icon_familiar_call01",
+      1000108,
+      "ItemData.Item.1000108",
+      "ItemData.Item.1000108.2",
+      "icon_spell_book_familiar_call",
       "FamiliarCall",
       2
     ],
     [
-      1000104,
-      "ItemData.Item.1000104",
-      "ItemData.Item.1000104.3",
-      "icon_familiar_call01",
+      1000109,
+      "ItemData.Item.1000109",
+      "ItemData.Item.1000109.3",
+      "icon_spell_book_familiar_call",
       "FamiliarCall",
       3
+    ],
+    [
+      1000110,
+      "ItemData.Item.1000110",
+      "ItemData.Item.1000110.0",
+      "icon_spell_book_familiar_call",
+      "FamiliarCall",
+      0
     ],
     [
       1000069,
