@@ -248,7 +248,7 @@
     [
       "ShopType",
       3,
-      "BeddingShop",
+      "BlanketShop",
       "",
       ""
     ],
@@ -276,7 +276,7 @@
     [
       "LoadingType",
       4,
-      "BeddingShop",
+      "BlanketShop",
       "",
       ""
     ],
@@ -305,6 +305,13 @@
       "MapType",
       4,
       "CottonCandyShop",
+      "",
+      ""
+    ],
+    [
+      "MapType",
+      5,
+      "BlanketShop",
       "",
       ""
     ],
