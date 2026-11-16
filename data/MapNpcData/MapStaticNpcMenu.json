@@ -29,6 +29,16 @@
       1,
       "PlayCottonCandyMinigame",
       0
+    ],
+    [
+      1000117,
+      "MapNpcData.MapStaticNpcMenu.1000117.1",
+      "AlwaysTrue",
+      "",
+      1,
+      1,
+      "PlayLibraryMinigame",
+      0
     ]
   ]
 }

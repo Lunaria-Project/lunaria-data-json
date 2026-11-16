@@ -71,6 +71,13 @@
       ""
     ],
     [
+      "NpcMenuFunctionType",
+      6,
+      "PlayLibraryMinigame",
+      "",
+      ""
+    ],
+    [
       "CutsceneCommand",
       1,
       "ShowDialog",
@@ -354,6 +361,13 @@
       "MinigameType",
       3,
       "CottonCandy",
+      "",
+      ""
+    ],
+    [
+      "MinigameType",
+      4,
+      "Library",
       "",
       ""
     ]
