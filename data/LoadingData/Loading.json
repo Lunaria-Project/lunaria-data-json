@@ -18,42 +18,49 @@
       1000008,
       "LoadingData.Loading.1000008",
       "loading_only_image",
-      "loading02",
+      "loading_night_01",
+      "NormalNight"
+    ],
+    [
+      1000121,
+      "LoadingData.Loading.1000121",
+      "loading_only_image",
+      "loading_night_02",
       "NormalNight"
     ],
     [
       1000027,
       "LoadingData.Loading.1000027",
       "loading_shop",
-      "loading03",
+      "loading_cottoncandy",
       "CottonCandyShop"
     ],
     [
       1000028,
       "LoadingData.Loading.1000028",
       "loading_shop",
-      "loading04",
+      "loading_powder",
       "PowderShop"
     ],
     [
       1000029,
       "LoadingData.Loading.1000029",
       "loading_shop",
-      "loading05",
+      "loading_blankstore",
       "BlanketShop"
     ],
     [
       1000119,
       "LoadingData.Loading.1000119",
       "loading_shop",
-      "loading06",
+      "loading_library",
       "Library"
     ],
     [
       1000120,
       "LoadingData.Loading.1000120",
       "loading_shop",
-      "loading07",
+      "loading_bank",
       "Bank"
     ]
   ]
