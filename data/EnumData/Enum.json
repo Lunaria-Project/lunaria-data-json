@@ -262,28 +262,49 @@
     [
       "LoadingType",
       1,
-      "Normal",
+      "NormalDay",
       "",
       ""
     ],
     [
       "LoadingType",
       2,
-      "CottonCandyShop",
+      "NormalNight",
       "",
       ""
     ],
     [
       "LoadingType",
       3,
-      "PowderShop",
+      "CottonCandyShop",
       "",
       ""
     ],
     [
       "LoadingType",
       4,
+      "PowderShop",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      5,
       "BlanketShop",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      6,
+      "Library",
+      "",
+      ""
+    ],
+    [
+      "LoadingType",
+      7,
+      "Bank",
       "",
       ""
     ],
