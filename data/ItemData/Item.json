@@ -259,10 +259,10 @@
     [
       1000118,
       "ItemData.Item.1000118",
-      "ItemData.Item.1000118.0",
+      "ItemData.Item.1000118.23",
       "icon_material_parchment",
       "Material",
-      0
+      23
     ],
     [
       1000043,
@@ -387,10 +387,10 @@
     [
       1000110,
       "ItemData.Item.1000110",
-      "ItemData.Item.1000110.0",
+      "ItemData.Item.1000110.4",
       "icon_spell_book_familiar_call",
       "FamiliarCall",
-      0
+      4
     ],
     [
       1000069,
