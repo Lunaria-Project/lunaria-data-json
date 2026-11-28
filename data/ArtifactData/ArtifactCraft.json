@@ -5,7 +5,8 @@
     "MaterialQuantities": "list<int>",
     "RequirementType": "enum<RequirementType>",
     "RequirementValues": "list<int>",
-    "Order": "int"
+    "Order": "int",
+    "RequiredCoinQuantity": "int"
   },
   "rows": [
     [
@@ -14,7 +15,8 @@
       "1,1,1",
       "AlwaysTrue",
       "",
-      1
+      1,
+      1000
     ],
     [
       1000041,
@@ -22,7 +24,8 @@
       "2,2,2",
       "AlwaysTrue",
       "",
-      2
+      2,
+      1000
     ],
     [
       1000057,
@@ -30,7 +33,8 @@
       "3,3,3",
       "AlwaysFalse",
       "",
-      3
+      3,
+      1000
     ]
   ]
 }
