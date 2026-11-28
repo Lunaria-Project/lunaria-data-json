@@ -78,6 +78,13 @@
       ""
     ],
     [
+      "NpcMenuFunctionType",
+      7,
+      "ShowArtifactPanel",
+      "",
+      ""
+    ],
+    [
       "CutsceneCommand",
       1,
       "ShowDialog",

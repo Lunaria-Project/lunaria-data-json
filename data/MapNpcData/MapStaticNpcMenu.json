@@ -39,6 +39,16 @@
       1,
       "PlayLibraryMinigame",
       0
+    ],
+    [
+      1000122,
+      "",
+      "AlwaysTrue",
+      "",
+      1,
+      1,
+      "ShowArtifactPanel",
+      0
     ]
   ]
 }

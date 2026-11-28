@@ -475,6 +475,48 @@
       "",
       "",
       1.0
+    ],
+    [
+      "New",
+      "New",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ArtifactPanel.Tab.Craft",
+      "마도구 제작",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ArtifactPanel.Tab.Fusion",
+      "마도구 합성",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ArtifactPanel.Tab.RandomCraft",
+      "랜덤 마도구 제작",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ArtifactPanel.Craft.List",
+      "레시피 목록",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ArtifactPanel.Craft.CraftButton",
+      "제작하기",
+      "",
+      "",
+      ""
     ]
   ]
 }

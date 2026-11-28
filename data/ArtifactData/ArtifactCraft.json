@@ -1,0 +1,36 @@
+{
+  "types": {
+    "Id": "int;key;id",
+    "MaterialIds": "list<int>;id",
+    "MaterialQuantities": "list<int>",
+    "RequirementType": "enum<RequirementType>",
+    "RequirementValues": "list<int>",
+    "Order": "int"
+  },
+  "rows": [
+    [
+      1000018,
+      "1000064,1000065,1000066",
+      "1,1,1",
+      "AlwaysTrue",
+      "",
+      1
+    ],
+    [
+      1000041,
+      "1000064,1000065,1000066",
+      "2,2,2",
+      "AlwaysTrue",
+      "",
+      2
+    ],
+    [
+      1000057,
+      "1000064,1000065,1000066",
+      "3,3,3",
+      "AlwaysFalse",
+      "",
+      3
+    ]
+  ]
+}
